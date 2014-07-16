@@ -1,0 +1,5437 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <TSI3>
+
+    <glyphProgram name="A">
+/* VTTTalk glyph 54, char 0x41 (A) */
+/* GUI generated Fri Feb 25 10:29:33 2011 */
+
+/* Y direction */
+YAnchor(58)
+YLink(58,25)
+YAnchor(97)
+YLink(97,129)
+YAnchor(145)
+YLink(145,41)
+
+/* X direction */
+XAnchor(14)
+XLink(14,37)
+XLink(37,108)
+XAnchor(89)
+XLink(89,137)
+
+Smooth()
+YDelta(98,-5/8@11)
+YDelta(99,-1/2@12,-1/4@13,-3/8@19,-1/4@20)
+YDelta(132,3/8@12,1/2@13;16..17;19..20,1/4@21)
+YDelta(133,1/2@13;16)
+YDelta(134,1/2@21)
+YDelta(135,3/8@13;21)
+XDelta(47,-1/2@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="AE">
+/* VTTTalk glyph 159, char 0xc6 */
+/* GUI generated Thu Feb 24 12:39:14 2011 */
+
+/* Y direction */
+YAnchor(45)
+YLink(45,26)
+YLink(45,75)
+YAnchor(126)
+YLink(126,191)
+YAnchor(138)
+YLink(138,155)
+YAnchor(169)
+YLink(169,10)
+YLink(169,211)
+YLink(211,65)
+
+/* X direction */
+XAnchor(16)
+XLink(16,61)
+XLink(16,161)
+XLink(161,184)
+XAnchor(38)
+XLink(38,0)
+XAnchor(92)
+XLink(92,70)
+XLink(213,147)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Aring">
+/* VTTTalk glyph 117, char 0xc5 */
+/* GUI generated Sun Feb 27 11:56:51 2011 */
+
+/* Y direction */
+YAnchor(58)
+YLink(58,21)
+YAnchor(109)
+YLink(109,138)
+YAnchor(150)
+YLink(150,174)
+YAnchor(190)
+YLink(190,41)
+
+/* X direction */
+XAnchor(87)
+XLink(87,184)
+XAnchor(101)
+XLink(101,143)
+XAnchor(117)
+XLink(117,134)
+XAnchor(129)
+XLink(129,155)
+
+Smooth()
+YDelta(17,5/8@21)
+YDelta(68,1/2@20..21)
+YDelta(124,-1/2@20,-5/8@21)
+YDelta(168,7/8@20)
+YDelta(171,1/2@19,1@20)
+YDelta(172,1@20)
+YDelta(173,1@20)
+YDelta(174,1@20)
+YDelta(175,1@20)
+YDelta(176,1@20)
+YDelta(177,1/2@20,1/4@21)
+XDelta(125,-1/4@11,-5/8@12)
+XDelta(170,3/8@11)
+XDelta(171,3/8@19)
+XDelta(176,-3/4@19,-3/8@20)
+XDelta(177,-3/8@12,-1/2@20)
+XDelta(178,-1/4@16)
+XDelta(179,-1/2@19)
+XDelta(180,-1/4@16,-3/8@19)
+
+    </glyphProgram>
+
+    <glyphProgram name="B">
+/* VTTTalk glyph 55, char 0x42 (B) */
+/* GUI generated Fri Feb 25 10:33:00 2011 */
+
+/* Y direction */
+YAnchor(22)
+YLink(22,44)
+YAnchor(61)
+YLink(61,178)
+YAnchor(73)
+YLink(73,169)
+YAnchor(116)
+YLink(116,183)
+YAnchor(158)
+YLink(158,89)
+
+/* X direction */
+XAnchor(2)
+XLink(2,82)
+XAnchor(15)
+XLink(15,51)
+XAnchor(68)
+XLink(68,174)
+XAnchor(106)
+XLink(106,187)
+XAnchor(127)
+XLink(127,199)
+
+Smooth()
+YDelta(10,-1/8@11)
+YDelta(184,-3/4@20)
+YDelta(191,5/8@20)
+YDelta(192,5/8@20)
+YDelta(193,3/8@20)
+XDelta(9,-3/8@12)
+XDelta(10,-1/2@11)
+XDelta(19,-3/8@15,-1/2@16..17)
+XDelta(20,-5/8@15..17,-3/8@19)
+XDelta(26,5/8@16,3/4@17,1/2@20,3/4@21)
+XDelta(27,3/4@17;21)
+XDelta(47,-1/8@16)
+XDelta(80,5/8@21)
+XDelta(84,1/2@19,5/8@20)
+XDelta(85,5/8@11,1/2@12,3/8@13)
+XDelta(86,1/2@19)
+XDelta(92,-1/2@20,-3/8@21)
+XDelta(111,-3/8@13)
+XDelta(118,1/2@16..17,5/8@19)
+XDelta(163,-5/8@21)
+XDelta(166,-5/8@21)
+XDelta(184,3/8@20)
+XDelta(191,3/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="C">
+/* VTTTalk glyph 56, char 0x43 (C) */
+/* GUI generated Fri Feb 25 10:36:06 2011 */
+
+/* Y direction */
+YAnchor(8)
+YLink(8,38)
+YAnchor(121)
+YLink(121,89)
+YAnchor(139)
+YLink(139,65)
+
+/* X direction */
+XAnchor(2)
+XLink(2,48)
+XAnchor(18)
+XLink(18,34)
+XAnchor(129)
+XLink(129,79)
+XLink(151,112)
+
+Smooth()
+YDelta(6,3/8@11)
+YDelta(42,-3/8@19)
+YDelta(53,5/8@12,3/8@20)
+YDelta(72,3/8@13;19)
+YDelta(73,3/8@15,1/2@19)
+YDelta(84,-3/8@13,-5/8@15)
+YDelta(85,-3/8@13;15)
+YDelta(86,-1/2@19)
+YDelta(113,1/2@21)
+YDelta(114,5/8@21)
+YDelta(125,1/2@16)
+YDelta(143,-1/2@20,-3/8@21)
+XDelta(5,-1/2@21)
+XDelta(53,1/2@20,5/8@21)
+XDelta(85,-3/8@20,-5/8@21)
+XDelta(113,-5/8@20)
+XDelta(114,-7/8@20)
+XDelta(125,1/2@11)
+
+    </glyphProgram>
+
+    <glyphProgram name="Ccedilla">
+/* VTTTalk glyph 118, char 0xc7 */
+/* GUI generated Sun Feb 27 12:04:53 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,28)
+YAnchor(108)
+YLink(108,84)
+YAnchor(186)
+YLink(186,58)
+
+/* X direction */
+XAnchor(15)
+XLink(15,23)
+XAnchor(122)
+XLink(122,149)
+XAnchor(172)
+XLink(172,72)
+XAnchor(197)
+XLink(197,35)
+
+Smooth()
+YDelta(2,3/4@20)
+YDelta(31,-1/2@19)
+YDelta(44,1/2@12,3/8@13,1/4@20)
+YDelta(45,1/2@11)
+YDelta(46,1/4@20)
+YDelta(63,3/8@17)
+YDelta(67,1/4@16)
+YDelta(68,3/8@20)
+YDelta(69,3/8@20)
+YDelta(70,3/4@21)
+YDelta(74,-1/2@12..13)
+YDelta(77,-1/2@12,-1/4@20)
+YDelta(78,-3/8@12..13,-1/2@15)
+YDelta(79,-3/8@15)
+YDelta(104,7/8@21)
+YDelta(124,1/2@12,5/8@13,1/2@17,7/8@19)
+YDelta(129,1/2@20)
+YDelta(146,-3/8@20)
+YDelta(156,3/8@13,1/4@20,3/8@21)
+YDelta(157,1/2@12,3/8@13,1/4@20,1/2@21)
+YDelta(158,3/8@20)
+YDelta(170,1/4@16)
+YDelta(179,-3/8@11;21)
+YDelta(180,-1/2@11)
+XDelta(74,-3/8@19)
+
+    </glyphProgram>
+
+    <glyphProgram name="D">
+/* VTTTalk glyph 57, char 0x44 (D) */
+/* GUI generated Fri Feb 25 10:38:38 2011 */
+
+/* Y direction */
+YAnchor(8)
+YLink(8,139)
+YAnchor(88)
+YLink(88,127)
+
+/* X direction */
+XAnchor(40)
+XLink(40,135)
+XAnchor(105)
+XLink(105,151)
+
+Smooth()
+YDelta(4,3/8@16)
+YDelta(5,5/8@12,3/8@20,1/8@21)
+YDelta(29,-3/8@16,-1/2@17;19..21)
+YDelta(30,-1/2@20..21)
+YDelta(93,-3/8@15,-1/2@20..21)
+YDelta(97,-1/2@13)
+YDelta(111,5/8@16)
+YDelta(112,3/4@12;16)
+YDelta(113,5/8@12,3/8@16)
+YDelta(115,3/8@17)
+YDelta(116,3/8@20)
+YDelta(147,-3/4@15)
+XDelta(2,-1/4@21)
+XDelta(33,1/2@19..20,5/8@21)
+XDelta(35,3/8@19)
+XDelta(137,1/4@19)
+
+    </glyphProgram>
+
+    <glyphProgram name="E">
+/* VTTTalk glyph 58, char 0x45 (E) */
+/* GUI generated Fri Feb 25 10:42:00 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,97)
+YAnchor(37)
+YLink(37,50)
+YAnchor(68)
+YLink(68,113)
+YAnchor(81)
+YLink(81,119)
+
+/* X direction */
+XAnchor(0)
+XLink(0,42)
+XAnchor(18)
+XLink(18,91)
+XAnchor(25)
+XLink(25,117)
+XAnchor(29)
+XLink(29,60)
+XAnchor(75)
+XLink(75,109)
+
+Smooth()
+YDelta(10,1/2@11)
+YDelta(12,5/8@11)
+YDelta(23,-3/8@17)
+YDelta(33,-5/8@13,-3/8@15)
+YDelta(34,-3/8@13)
+YDelta(41,-3/8@21)
+YDelta(56,1/2@11)
+YDelta(64,-7/8@21)
+YDelta(65,-5/8@12)
+YDelta(66,-1/2@17)
+YDelta(84,7/8@17,5/8@21)
+YDelta(85,5/8@20)
+YDelta(87,3/8@16..17)
+YDelta(94,-3/4@12,-5/8@16..17)
+YDelta(95,-1/2@12,-5/8@15,-1/2@16)
+XDelta(11,3/8@19)
+XDelta(25,7/8@19)
+XDelta(55,-5/8@20)
+XDelta(56,-1/2@17,-1/4@19,-5/8@20)
+XDelta(57,-1/4@20)
+XDelta(64,-3/8@21)
+XDelta(71,-3/4@17,-5/8@19)
+XDelta(78,-3/4@17;19,-5/8@20,-3/4@21)
+XDelta(86,-5/8@20)
+XDelta(87,-3/8@19,-1/2@20)
+XDelta(94,-1/4@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="Eth">
+/* VTTTalk glyph 229, char 0xd0 */
+/* GUI generated Sun Feb 27 11:49:17 2011 */
+
+/* Y direction */
+YAnchor(14)
+YLink(14,144)
+YAnchor(76)
+YLink(76,106)
+YAnchor(119)
+YLink(119,136)
+YLink(119,47)
+YLink(47,29)
+
+/* X direction */
+XAnchor(51)
+XLink(51,112)
+XLink(112,141)
+XLink(141,127)
+XLink(141,27)
+XLink(27,38)
+XAnchor(93)
+XLink(93,156)
+
+Smooth()
+YDelta(4,3/8@11..12,3/4@15,1/2@16)
+YDelta(5,1/2@11,5/8@12,1/2@15)
+YDelta(6,3/8@11)
+YDelta(22,-1/4@19)
+YDelta(23,-3/8@19,-5/8@20,-1/2@21)
+YDelta(24,-1/4@19,-3/8@21)
+YDelta(68,-3/8@19)
+YDelta(69,-3/8@19,-1/2@20)
+YDelta(84,-3/8@19)
+YDelta(85,-1/2@13)
+YDelta(97,1/2@16,3/8@20)
+YDelta(98,3/8@11,1/2@12,3/8@17)
+YDelta(148,-1/4@19)
+YDelta(149,-3/8@19)
+XDelta(7,-1/4@21)
+XDelta(83,-1/2@21)
+XDelta(85,-1/2@21)
+XDelta(97,1/4@20)
+XDelta(98,3/8@21)
+XDelta(109,-3/8@20,-1/2@21)
+XDelta(151,5/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="Euro">
+/* VTTTalk glyph 191, char 0x20ac */
+/* GUI generated Thu Feb 24 12:56:34 2011 */
+
+/* Y direction */
+YAnchor(17)
+YLink(17,33)
+YLink(17,138)
+YLink(138,122)
+YAnchor(40)
+YLink(40,53)
+YLink(40,111)
+YLink(111,106)
+YAnchor(89)
+YLink(89,59)
+YAnchor(154)
+YLink(154,9)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="F">
+/* VTTTalk glyph 59, char 0x46 (F) */
+/* GUI generated Fri Feb 25 10:42:41 2011 */
+
+/* Y direction */
+YAnchor(26)
+YLink(26,39)
+YAnchor(108)
+YLink(108,12)
+YLink(111,54)
+
+/* X direction */
+XAnchor(35)
+XLink(35,108)
+XAnchor(76)
+XLink(76,21)
+
+Smooth()
+XDelta(56,1/2@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="G">
+/* VTTTalk glyph 60, char 0x47 (G) */
+/* GUI generated Fri Feb 25 10:46:23 2011 */
+
+/* Y direction */
+YAnchor(22)
+YLink(22,51)
+YAnchor(71)
+YLink(71,164)
+YAnchor(100)
+YLink(100,126)
+
+/* X direction */
+XAnchor(0)
+XLink(0,206)
+XAnchor(8)
+XLink(8,63)
+XAnchor(33)
+XLink(33,46)
+XAnchor(90)
+XLink(90,155)
+XAnchor(174)
+XLink(174,197)
+
+Smooth()
+YDelta(1,1/2@21)
+YDelta(55,-1/2@19,-1/4@20)
+YDelta(56,-1/2@12,-3/8@13)
+YDelta(93,-1/2@20)
+YDelta(94,-1/4@20)
+YDelta(95,-3/8@20)
+YDelta(96,-3/8@19)
+YDelta(105,-5/8@21)
+YDelta(106,-3/8@13)
+YDelta(122,3/8@20)
+YDelta(139,3/8@15)
+YDelta(157,-3/4@12,-5/8@13,-1/2@20)
+YDelta(158,-3/8@13)
+YDelta(159,-1/2@12,-5/8@13)
+YDelta(201,-1@21)
+YDelta(202,-7/8@21)
+XDelta(106,-3/8@15;17)
+XDelta(146,-3/8@16)
+XDelta(157,-1/4@16)
+XDelta(159,-5/8@17)
+XDelta(160,-1/2@17)
+XDelta(167,3/8@19)
+XDelta(168,7/8@19)
+XDelta(169,5/8@15,3/4@19)
+XDelta(170,7/8@15,1/2@19;21)
+XDelta(178,5/8@15,1/2@17)
+XDelta(188,-3/4@15,-1/2@16,-5/8@17,-1/2@19)
+XDelta(199,-3/8@19)
+XDelta(201,3/4@19)
+
+    </glyphProgram>
+
+    <glyphProgram name="H">
+/* VTTTalk glyph 61, char 0x48 (H) */
+/* GUI generated Fri Feb 25 10:48:21 2011 */
+
+/* Y direction */
+YAnchor(43)
+YLink(43,21)
+YAnchor(90)
+YLink(90,118)
+YAnchor(100)
+YLink(100,29)
+
+/* X direction */
+XAnchor(95)
+XLink(95,78)
+XAnchor(107)
+XLink(107,132)
+
+Smooth()
+YDelta(4,1/2@19)
+YDelta(5,1/2@19)
+YDelta(6,3/8@19)
+YDelta(31,3/8@19..20,1/2@21)
+YDelta(92,-3/8@21)
+YDelta(94,-5/8@21)
+YDelta(98,-3/8@15)
+XDelta(80,3/8@17)
+XDelta(81,5/8@20)
+XDelta(92,-3/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="I">
+/* VTTTalk glyph 62, char 0x49 (I) */
+/* GUI generated Fri Feb 25 10:48:45 2011 */
+
+/* Y direction */
+YAnchor(39)
+YLink(39,9)
+
+/* X direction */
+XAnchor(52)
+XLink(52,23)
+
+Smooth()
+XDelta(43,-1/4@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="J">
+/* VTTTalk glyph 63, char 0x4a (J) */
+/* GUI generated Fri Feb 25 10:50:26 2011 */
+
+/* Y direction */
+YAnchor(12)
+YLink(12,49)
+YLink(49,31)
+YLink(84,75)
+
+/* X direction */
+XAnchor(2)
+XLink(2,56)
+XAnchor(24)
+XLink(24,40)
+
+Smooth()
+XDelta(4,-1/4@19)
+XDelta(5,-1/2@11,-3/4@16,-1/2@17)
+XDelta(6,-1/2@11,-3/4@16)
+XDelta(20,5/8@20)
+XDelta(36,-1@21)
+XDelta(37,-1/2@17,-5/8@19,-3/4@20,-1/4@21)
+XDelta(45,-3/4@17;19)
+XDelta(51,3/4@21)
+XDelta(52,3/8@15,1/2@19,7/8@20..21)
+XDelta(53,3/8@15)
+XDelta(80,-3/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="K">
+/* VTTTalk glyph 64, char 0x4b (K) */
+/* GUI generated Fri Feb 25 17:21:24 2011 */
+
+/* Y direction */
+YAnchor(23)
+YLink(23,108)
+YAnchor(41)
+YLink(41,74)
+YAnchor(55)
+YLink(55,35)
+YLink(55,126)
+YAnchor(92)
+YLink(92,67)
+YLink(67,119)
+
+/* X direction */
+XAnchor(58)
+XLink(58,124)
+XAnchor(87)
+XLink(87,67)
+
+Smooth()
+YDelta(5,3/4@11)
+YDelta(31,1/2@21)
+XDelta(0,3/8@15)
+XDelta(1,-1/4@21)
+XDelta(2,-1/2@19..20,-3/8@21)
+XDelta(5,-3/8@20)
+XDelta(7,-3/8@20)
+XDelta(25,3/8@20)
+XDelta(27,5/8@21)
+XDelta(28,3/8@21)
+XDelta(37,-1/4@20..21)
+XDelta(47,1/2@19)
+XDelta(82,-1/8@19,-1/4@20,-1/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="L">
+/* VTTTalk glyph 65, char 0x4c (L) */
+/* GUI generated Fri Feb 25 17:24:35 2011 */
+
+/* Y direction */
+YAnchor(15)
+YLink(15,64)
+YAnchor(22)
+YLink(22,78)
+YLink(81,48)
+
+/* X direction */
+XAnchor(25)
+XLink(25,78)
+XAnchor(60)
+XLink(60,0)
+XLink(60,35)
+
+Smooth()
+YDelta(9,1/2@21)
+YDelta(31,-1/2@21)
+YDelta(64,3/8@19,-5/8@23)
+YDelta(65,-3/8@21,-5/8@23)
+YDelta(68,-7/8@23)
+YDelta(72,-1/2@21,-5/8@23)
+YDelta(73,-5/8@21;23)
+YDelta(75,3/4@23)
+YDelta(76,1/2@17;23)
+YDelta(77,5/8@23)
+YDelta(80,-7/8@23)
+YDelta(82,-1/2@23)
+XDelta(17,-3/4@20)
+XDelta(18,-3/4@20)
+XDelta(19,-1/4@20)
+XDelta(31,1/2@21)
+XDelta(39,1/4@21,5/8@23)
+XDelta(64,-1/2@19,-5/8@20)
+XDelta(73,-5/8@20)
+XDelta(74,-3/4@20)
+XDelta(75,1@21,5/8@23)
+XDelta(79,5/8@21)
+XDelta(80,3/4@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="Lslash">
+/* VTTTalk glyph 2, char 0x141 */
+/* GUI generated Tue Feb 22 11:18:10 2011 */
+
+/* Y direction */
+YAnchor(22)
+YLink(22,106)
+YAnchor(95)
+YLink(95,12)
+
+/* X direction */
+XAnchor(25)
+XLink(25,106)
+XAnchor(88)
+XLink(88,33)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="M">
+/* VTTTalk glyph 66, char 0x4d (M) */
+/* GUI generated Fri Feb 25 17:28:52 2011 */
+
+/* Y direction */
+YAnchor(65)
+YLink(65,172)
+YAnchor(112)
+YLink(112,8)
+YAnchor(137)
+YLink(137,83)
+YAnchor(156)
+YLink(156,36)
+
+/* X direction */
+XAnchor(56)
+XLink(56,175)
+XAnchor(68)
+XLink(68,170)
+XAnchor(123)
+XLink(123,91)
+XAnchor(164)
+XLink(164,22)
+
+Smooth()
+YDelta(4,1/2@20)
+YDelta(19,-5/8@20)
+YDelta(78,3/8@19)
+YDelta(79,1/2@19,3/8@21)
+YDelta(88,1/2@13)
+YDelta(132,-3/8@12)
+YDelta(144,-1/2@20)
+YDelta(159,-5/8@12,-1/2@13)
+YDelta(160,-1/2@12..13)
+YDelta(161,-3/8@20)
+YDelta(166,5/8@19;21)
+YDelta(167,3/4@19)
+XDelta(2,-1/2@17,-1/4@21)
+XDelta(3,-3/8@19;21)
+XDelta(6,-5/8@21)
+XDelta(29,1/2@11)
+XDelta(30,5/8@11)
+XDelta(32,5/8@19)
+XDelta(38,-5/8@21)
+XDelta(44,-3/4@15)
+XDelta(45,-3/8@15)
+XDelta(46,-5/8@19)
+XDelta(47,-1/2@17,-3/8@19)
+XDelta(48,-1/2@17)
+XDelta(49,-5/8@17)
+XDelta(71,5/8@21)
+XDelta(72,3/8@15;19,1@21)
+XDelta(73,3/4@21)
+XDelta(74,3/4@21)
+XDelta(75,5/8@21)
+XDelta(76,1/2@21)
+XDelta(77,7/8@21)
+XDelta(78,3/8@15;21)
+XDelta(79,5/8@21)
+XDelta(96,-1/2@21)
+XDelta(97,-1/2@21)
+XDelta(98,-1/2@21)
+XDelta(131,1/2@11)
+XDelta(132,1/2@11)
+XDelta(146,-1/2@17)
+XDelta(167,-1/2@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="N">
+/* VTTTalk glyph 67, char 0x4e (N) */
+/* GUI generated Fri Feb 25 17:31:55 2011 */
+
+/* Y direction */
+YAnchor(88)
+YLink(88,15)
+YAnchor(134)
+YLink(134,41)
+
+/* X direction */
+XAnchor(2)
+XLink(2,34)
+XAnchor(95)
+XLink(95,115)
+
+Smooth()
+YDelta(8,1/2@21)
+YDelta(25,-5/8@21)
+YDelta(26,-3/4@21)
+XDelta(8,-3/8@19)
+XDelta(12,-3/8@19)
+XDelta(25,1/4@20)
+XDelta(28,1/4@20)
+XDelta(38,1/2@16..17)
+XDelta(55,-3/8@16)
+XDelta(56,-3/4@20)
+XDelta(57,-1/2@21)
+XDelta(68,-5/8@21)
+XDelta(69,-3/8@21)
+XDelta(70,-1/2@21)
+XDelta(72,-1/4@21)
+XDelta(92,1/4@20)
+XDelta(93,1/4@13)
+XDelta(94,3/8@15;19)
+XDelta(112,-3/8@13;15..16;21)
+XDelta(113,-1/2@13,-5/8@19..20)
+XDelta(118,-1/2@17;20)
+XDelta(119,-3/8@17,-1/2@20)
+XDelta(120,-3/8@16,-1/4@17,-5/8@21)
+XDelta(121,-1/2@17)
+XDelta(122,-5/8@17)
+XDelta(128,3/8@15,1/4@19)
+XDelta(129,3/8@19)
+
+    </glyphProgram>
+
+    <glyphProgram name="O">
+/* VTTTalk glyph 68, char 0x4f (O) */
+/* GUI generated Fri Feb 25 17:35:49 2011 */
+
+/* Y direction */
+YAnchor(24)
+YLink(24,109)
+YAnchor(60)
+YLink(60,95)
+
+/* X direction */
+XAnchor(46)
+XLink(46,102)
+XAnchor(78)
+XLink(78,120)
+
+Smooth()
+YDelta(40,5/8@17)
+YDelta(53,-1/2@20)
+YDelta(65,-3/8@21)
+YDelta(67,-3/8@20,-1/2@21)
+YDelta(68,-1/2@20)
+YDelta(70,-1/2@20,-3/4@21)
+YDelta(71,-3/8@20)
+YDelta(82,1/2@21)
+YDelta(83,1/2@19,3/8@20)
+YDelta(97,3/4@19)
+YDelta(104,-1/2@20)
+YDelta(105,-3/8@20)
+YDelta(106,-3/8@19..20)
+YDelta(113,-3/8@17,-5/8@19,-3/8@21)
+YDelta(114,-1/2@19,-5/8@20)
+YDelta(115,-3/4@20)
+YDelta(116,-1/2@20)
+XDelta(6,-1/2@15)
+XDelta(9,-3/4@15)
+XDelta(40,1/2@16)
+XDelta(41,1/2@16)
+XDelta(42,1/2@12;16)
+XDelta(53,3/8@15)
+XDelta(68,-3/8@15)
+XDelta(69,-1/2@15,-5/8@16)
+XDelta(70,-1/2@15)
+XDelta(82,1/4@17)
+XDelta(83,1/2@13)
+XDelta(84,3/4@17)
+XDelta(96,-5/8@13,-1/2@20)
+XDelta(98,-1/4@16)
+XDelta(105,-1/2@15,-5/8@21)
+XDelta(106,-3/4@11,-1/2@15)
+XDelta(113,3/8@13)
+XDelta(115,3/8@13)
+XDelta(116,3/8@17)
+
+    </glyphProgram>
+
+    <glyphProgram name="OE">
+/* VTTTalk glyph 179, char 0x152 */
+/* GUI generated Sun Feb 27 12:21:47 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,158)
+YAnchor(39)
+YLink(39,224)
+YAnchor(71)
+YLink(71,206)
+YAnchor(96)
+YLink(96,112)
+YAnchor(128)
+YLink(128,173)
+YAnchor(139)
+YLink(139,179)
+
+/* X direction */
+XAnchor(58)
+XLink(58,217)
+XAnchor(136)
+XLink(136,169)
+XAnchor(149)
+XLink(149,235)
+XLink(235,121)
+XAnchor(168)
+XLink(168,102)
+
+Smooth()
+YDelta(65,-1/2@15)
+YDelta(93,-5/8@13)
+YDelta(108,3/8@16)
+YDelta(116,1/4@16)
+YDelta(192,5/8@15,1@16)
+YDelta(193,1/2@11;13,3/4@15)
+YDelta(210,5/8@13)
+YDelta(220,-5/8@11)
+YDelta(228,-5/8@15,-3/8@16)
+YDelta(229,-1/2@11,-5/8@13,-1/2@15)
+YDelta(231,-1/2@13)
+XDelta(11,3/8@15)
+XDelta(22,-1/2@12)
+XDelta(54,5/8@12)
+XDelta(192,1/8@16)
+XDelta(193,1/2@11)
+XDelta(220,-3/8@15..16)
+XDelta(221,-1/2@15)
+XDelta(228,7/8@16)
+XDelta(229,3/4@11;16)
+XDelta(230,1/2@11,5/8@15,3/4@16)
+XDelta(231,5/8@15,1/2@16)
+
+    </glyphProgram>
+
+    <glyphProgram name="Oslash">
+/* VTTTalk glyph 160, char 0xd8 */
+/* GUI generated Thu Feb 24 12:39:57 2011 */
+
+/* Y direction */
+YAnchor(28)
+YLink(28,131)
+YAnchor(78)
+YLink(78,162)
+
+/* X direction */
+XAnchor(66)
+XLink(66,170)
+XAnchor(114)
+XLink(114,117)
+XAnchor(176)
+XLink(176,128)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="P">
+/* VTTTalk glyph 69, char 0x50 (P) */
+/* GUI generated Fri Feb 25 17:38:41 2011 */
+
+/* Y direction */
+YAnchor(9)
+YLink(9,31)
+YAnchor(128)
+YLink(128,47)
+YLink(136,63)
+
+/* X direction */
+XAnchor(55)
+XLink(55,75)
+XAnchor(134)
+XLink(134,38)
+
+Smooth()
+YDelta(13,1/2@15,3/4@16)
+YDelta(34,-3/8@21)
+YDelta(35,-5/8@12,-1/2@13;21)
+YDelta(42,5/8@11,3/8@17)
+YDelta(43,3/8@16)
+YDelta(125,-5/8@11,-1/2@12,-3/8@13)
+YDelta(131,-1/2@12)
+XDelta(13,3/8@19,1/2@20)
+XDelta(14,3/4@20)
+XDelta(23,-1/2@21)
+XDelta(24,-1/2@21)
+XDelta(25,-1/2@21)
+XDelta(26,-5/8@21)
+XDelta(42,3/8@17)
+XDelta(59,-3/8@21)
+XDelta(79,3/8@17)
+XDelta(131,-3/8@19,-1/4@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="Q">
+/* VTTTalk glyph 70, char 0x51 (Q) */
+/* GUI generated Fri Feb 25 17:41:37 2011 */
+
+/* Y direction */
+YAnchor(26)
+YLink(26,10)
+YAnchor(36)
+YLink(36,109)
+YAnchor(62)
+YLink(62,89)
+
+/* X direction */
+XAnchor(0)
+XLink(0,80)
+XAnchor(48)
+XLink(48,99)
+
+Smooth()
+YDelta(7,-3/4@19)
+YDelta(29,1/2@13)
+YDelta(31,1/2@13)
+YDelta(32,1/2@13,5/8@16)
+YDelta(33,5/8@19)
+YDelta(41,5/8@15)
+YDelta(42,1/2@15..16)
+YDelta(43,1/2@15)
+YDelta(55,-3/8@15)
+YDelta(71,-1/2@15)
+YDelta(73,-3/8@15)
+YDelta(86,1/4@16)
+YDelta(106,-1/4@17)
+XDelta(4,-1/2@13)
+XDelta(5,-1/2@17)
+XDelta(7,-1/2@12,-3/8@19)
+XDelta(8,-3/4@20,-1/2@21)
+XDelta(40,3/8@11)
+XDelta(54,1/2@20)
+XDelta(72,-3/8@21)
+XDelta(84,5/8@19)
+XDelta(85,3/8@19,1/2@20)
+XDelta(86,3/8@13,5/8@20)
+XDelta(87,1/2@20)
+XDelta(92,-3/8@13)
+XDelta(93,-3/8@19)
+XDelta(94,-5/8@13)
+XDelta(95,-3/8@20)
+XDelta(103,-1/4@19)
+XDelta(104,-1/2@21)
+XDelta(106,-1/2@21)
+XDelta(128,-3/4@20,-1/2@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="R">
+/* VTTTalk glyph 71, char 0x52 (R) */
+/* GUI generated Fri Feb 25 17:44:58 2011 */
+
+/* Y direction */
+YAnchor(36)
+YLink(36,211)
+YAnchor(50)
+YLink(50,204)
+YAnchor(100)
+YLink(100,14)
+YAnchor(163)
+YLink(163,144)
+YAnchor(185)
+YLink(185,69)
+YLink(214,99)
+
+/* X direction */
+XAnchor(0)
+XLink(0,62)
+XAnchor(5)
+XLink(5,27)
+XAnchor(43)
+XLink(43,208)
+XAnchor(84)
+XLink(84,123)
+XAnchor(169)
+XLink(169,139)
+
+Smooth()
+YDelta(2,3/8@16)
+YDelta(4,5/8@16)
+YDelta(6,-7/8@19,-5/8@21)
+YDelta(8,-5/8@20)
+YDelta(28,5/8@20)
+YDelta(30,3/4@20,5/8@21)
+YDelta(31,1/2@20,1/4@21)
+YDelta(40,5/8@19)
+YDelta(46,-5/8@19)
+YDelta(54,-5/8@19)
+YDelta(55,-1/2@19)
+YDelta(56,-1/2@17,-1@19)
+YDelta(57,-1/2@15,-5/8@16,-3/4@17,-1@19)
+YDelta(58,-1/2@15,-3/4@16,-1@17,-7/8@19)
+YDelta(59,-3/4@17;19)
+YDelta(65,3/8@11,5/8@12)
+YDelta(66,1/8@21)
+YDelta(127,1@21)
+YDelta(128,1@21)
+YDelta(129,5/8@21)
+YDelta(130,5/8@21)
+YDelta(131,5/8@21)
+YDelta(132,3/8@21)
+YDelta(133,3/4@21)
+YDelta(134,3/4@21)
+YDelta(165,3/4@21)
+YDelta(166,1/2@21)
+YDelta(174,-1/2@20)
+YDelta(197,-1/2@13)
+XDelta(23,1/2@21)
+XDelta(24,1/2@21)
+XDelta(73,-1/2@20)
+XDelta(74,-3/4@21)
+XDelta(75,-5/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="S">
+/* VTTTalk glyph 72, char 0x53 (S) */
+/* GUI generated Fri Feb 25 17:48:06 2011 */
+
+/* Y direction */
+YAnchor(55)
+YLink(55,87)
+YAnchor(121)
+YLink(121,28)
+
+/* X direction */
+XAnchor(2)
+XLink(2,21)
+XAnchor(45)
+XLink(45,96)
+XAnchor(65)
+XLink(65,80)
+XAnchor(112)
+XLink(112,35)
+
+Smooth()
+YDelta(6,5/8@16)
+YDelta(23,1/2@16)
+YDelta(38,-3/4@20)
+YDelta(39,-3/4@19)
+YDelta(40,-5/8@19)
+YDelta(41,-3/4@19)
+YDelta(42,-1/2@19)
+YDelta(43,-5/8@19)
+YDelta(47,3/4@17,1/4@19)
+YDelta(57,1/2@16..17)
+YDelta(69,-3/8@15,-1/2@16)
+YDelta(82,-5/8@15)
+YDelta(92,-3/8@15,-5/8@16)
+YDelta(93,-1/2@15..16)
+YDelta(99,1/2@16,1/4@20)
+YDelta(114,-3/8@17)
+YDelta(115,-3/4@17;19,-1/2@20)
+YDelta(126,-1/2@17,-1/4@19,-3/8@20)
+XDelta(6,-3/8@15;21)
+XDelta(7,5/8@11..12)
+XDelta(8,5/8@11,3/4@12)
+XDelta(9,3/4@11..12)
+XDelta(10,3/4@11..12)
+XDelta(11,3/4@11,5/8@12)
+XDelta(12,5/8@11,3/4@12)
+XDelta(13,5/8@11,3/4@12)
+XDelta(14,1/2@11)
+XDelta(23,1/2@15)
+XDelta(38,-3/8@21)
+XDelta(39,-3/8@21)
+XDelta(43,-1/2@21)
+XDelta(76,-5/8@21)
+XDelta(77,-5/8@21)
+XDelta(78,-3/4@21)
+XDelta(99,3/8@20)
+XDelta(115,1/2@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="T">
+/* VTTTalk glyph 73, char 0x54 (T) */
+/* GUI generated Fri Feb 25 17:49:19 2011 */
+
+/* Y direction */
+YAnchor(63)
+YLink(63,10)
+
+/* X direction */
+XAnchor(26)
+XLink(26,34)
+
+Smooth()
+YDelta(39,1/4@19)
+YDelta(42,1/2@21)
+YDelta(43,1/2@21)
+YDelta(44,1/2@21)
+YDelta(45,3/8@21)
+YDelta(51,-1/4@20)
+YDelta(53,-1/2@20)
+XDelta(12,-3/8@21)
+XDelta(13,-3/8@21)
+XDelta(14,-1/2@21)
+XDelta(15,-3/8@21)
+XDelta(16,-3/8@21)
+XDelta(39,1/4@19,5/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="Thorn">
+/* VTTTalk glyph 8, char 0xde */
+/* GUI generated Tue Feb 22 11:18:51 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,137)
+YAnchor(100)
+YLink(100,120)
+YLink(152,29)
+
+/* X direction */
+XAnchor(60)
+XLink(60,125)
+XAnchor(107)
+XLink(107,148)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="U">
+/* VTTTalk glyph 74, char 0x55 (U) */
+/* GUI generated Fri Feb 25 17:51:07 2011 */
+
+/* Y direction */
+YAnchor(20)
+YLink(20,78)
+YAnchor(53)
+YLink(53,99)
+
+/* X direction */
+XAnchor(2)
+XLink(2,87)
+XAnchor(28)
+XLink(28,68)
+
+Smooth()
+XDelta(5,-3/8@16..17)
+XDelta(6,-1/2@13)
+XDelta(9,-1/2@15)
+XDelta(22,1/2@12)
+XDelta(23,1/4@20)
+XDelta(40,1/4@21)
+XDelta(41,1/2@21)
+XDelta(42,3/8@21)
+XDelta(44,1/2@21)
+XDelta(45,7/8@21)
+XDelta(46,1/2@21)
+XDelta(47,5/8@20,3/8@21)
+XDelta(48,1/2@21)
+XDelta(49,1/2@21)
+XDelta(71,-1/4@19,-3/8@20..21)
+XDelta(72,-1/2@11;15,-5/8@16..17)
+XDelta(83,3/8@19;21)
+XDelta(84,3/8@21)
+XDelta(104,-3/8@19..20,-1/4@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="V">
+/* VTTTalk glyph 75, char 0x56 (V) */
+/* GUI generated Fri Feb 25 17:54:54 2011 */
+
+/* Y direction */
+YAnchor(43)
+YLink(43,105)
+YAnchor(80)
+YLink(80,0)
+
+/* X direction */
+XAnchor(34)
+XLink(34,108)
+XAnchor(49)
+XLink(49,116)
+
+Smooth()
+YDelta(14,3/8@21)
+YDelta(38,1/2@15)
+YDelta(55,3/8@20)
+YDelta(61,5/8@21)
+YDelta(64,1/2@20)
+YDelta(69,1/2@21)
+YDelta(83,-3/8@15)
+YDelta(84,-5/8@21)
+YDelta(87,-3/4@20,-5/8@21)
+YDelta(88,-1/2@20)
+YDelta(90,-1/2@20,-5/8@21)
+YDelta(91,-7/8@15)
+YDelta(92,-3/4@20)
+YDelta(112,3/4@15,1/4@20,5/8@21)
+YDelta(113,1/2@20)
+XDelta(19,-1/2@19)
+XDelta(20,-3/8@16;19)
+XDelta(52,3/4@17)
+XDelta(59,1/2@17)
+XDelta(62,3/8@19)
+XDelta(63,5/8@17)
+XDelta(71,1/2@17)
+XDelta(72,1/2@17)
+XDelta(75,1/2@17)
+XDelta(88,-5/8@19)
+XDelta(89,-5/8@19)
+XDelta(97,1/2@19)
+XDelta(99,5/8@19)
+
+    </glyphProgram>
+
+    <glyphProgram name="W">
+/* VTTTalk glyph 76, char 0x57 (W) */
+/* GUI generated Fri Feb 25 17:58:20 2011 */
+
+/* Y direction */
+YAnchor(17)
+YLink(17,117)
+YAnchor(24)
+YLink(24,73)
+YAnchor(45)
+YLink(45,139)
+YAnchor(92)
+YLink(92,146)
+
+/* X direction */
+XAnchor(4)
+XLink(4,127)
+XAnchor(31)
+XLink(31,62)
+XAnchor(85)
+XLink(85,152)
+XAnchor(96)
+XLink(96,144)
+
+Smooth()
+YDelta(10,5/8@20)
+YDelta(19,3/8@16)
+YDelta(20,7/8@16)
+YDelta(21,3/8@16,1/2@20,3/8@21)
+YDelta(57,5/8@21)
+YDelta(58,1@21)
+YDelta(60,7/8@21)
+YDelta(69,-3/8@13)
+YDelta(94,-5/8@20,-1/2@21)
+YDelta(121,-1/2@21)
+YDelta(122,-1/2@13)
+YDelta(123,-3/8@13,-1/4@20)
+YDelta(155,-1@20..21)
+YDelta(156,-1@20..21)
+XDelta(9,-1/2@19)
+XDelta(10,-3/8@15,-1/4@16,-3/4@19)
+XDelta(20,1/8@16,5/8@17)
+XDelta(21,1/2@16)
+XDelta(43,3/8@19)
+XDelta(57,-1/2@20)
+XDelta(60,-3/8@19)
+XDelta(68,-3/8@19,-1/2@20)
+XDelta(69,-1/2@15)
+XDelta(76,1/2@20,3/4@21)
+XDelta(77,3/8@20,5/8@21)
+XDelta(79,1/2@16,5/8@20)
+XDelta(80,5/8@16,1/2@20,1@21)
+XDelta(81,5/8@16;20,3/4@21)
+XDelta(88,1/2@16)
+XDelta(94,-1/2@16)
+XDelta(95,-3/4@16)
+XDelta(110,-1/2@13)
+XDelta(121,3/8@17)
+XDelta(123,1/2@13)
+XDelta(124,1/4@17)
+XDelta(142,-3/8@19)
+XDelta(156,1/2@16)
+
+    </glyphProgram>
+
+    <glyphProgram name="X">
+/* VTTTalk glyph 77, char 0x58 (X) */
+/* GUI generated Fri Feb 25 18:05:22 2011 */
+
+/* Y direction */
+YAnchor(31)
+YLink(31,8)
+YAnchor(57)
+YLink(57,82)
+YAnchor(70)
+YLink(70,22)
+
+/* X direction */
+XAnchor(49)
+XLink(49,108)
+
+Smooth()
+YDelta(0,-1/2@20,-5/8@21)
+YDelta(12,1/2@19)
+YDelta(13,1/2@17)
+YDelta(14,3/8@17;19)
+YDelta(16,1/4@17)
+YDelta(17,3/4@21)
+YDelta(18,7/8@21)
+YDelta(19,5/8@21)
+YDelta(20,1@21)
+YDelta(21,1@16;21)
+YDelta(22,1@15..16,7/8@21)
+YDelta(23,-1@11,1/2@15,3/4@16,1/2@21)
+YDelta(24,7/8@15,5/8@16)
+YDelta(25,1/4@16)
+YDelta(27,3/4@15..16)
+YDelta(28,1/2@15,5/8@16)
+YDelta(29,5/8@15)
+YDelta(38,-5/8@19)
+YDelta(39,-3/8@19)
+YDelta(41,-1/2@19)
+YDelta(48,-1/2@11,-3/8@19)
+YDelta(50,1/2@20)
+YDelta(51,3/8@20)
+YDelta(58,-5/8@19)
+YDelta(59,-3/8@19,-1/4@20)
+YDelta(61,-3/4@21)
+YDelta(62,-3/4@21)
+YDelta(63,-1/2@17,-5/8@20)
+YDelta(64,-1/2@17)
+YDelta(65,-5/8@20,-7/8@21)
+YDelta(66,-3/4@21)
+YDelta(67,-1/2@19)
+YDelta(68,-7/8@21)
+YDelta(69,-1@20,-7/8@21)
+YDelta(70,-1@20)
+YDelta(71,-1@20)
+YDelta(73,-7/8@21)
+YDelta(76,-5/8@20)
+YDelta(77,-3/4@20,-5/8@21)
+YDelta(78,-3/4@20)
+YDelta(93,1/2@21)
+YDelta(94,3/4@21)
+YDelta(95,3/8@17)
+YDelta(97,5/8@21)
+YDelta(98,3/4@21)
+YDelta(103,3/8@19)
+YDelta(104,3/4@19,3/8@20)
+YDelta(105,5/8@20)
+YDelta(106,5/8@20..21)
+YDelta(110,-3/8@20,-1/2@21)
+XDelta(19,3/8@21)
+XDelta(36,1/2@21)
+XDelta(37,3/8@21)
+XDelta(38,3/8@21)
+XDelta(39,1/2@21)
+XDelta(40,1/2@21)
+XDelta(42,1/2@21)
+XDelta(60,-3/4@21)
+XDelta(69,-1/4@20)
+XDelta(71,1/2@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="Y">
+/* VTTTalk glyph 78, char 0x59 (Y) */
+/* GUI generated Fri Feb 25 18:08:11 2011 */
+
+/* Y direction */
+YAnchor(31)
+YLink(31,173)
+YAnchor(72)
+YLink(72,111)
+YAnchor(90)
+YLink(90,132)
+
+/* X direction */
+XAnchor(39)
+XLink(39,165)
+XAnchor(80)
+XLink(80,102)
+XAnchor(151)
+XLink(151,53)
+
+Smooth()
+YDelta(15,1/2@19)
+YDelta(33,5/8@15)
+YDelta(44,-1/4@16)
+YDelta(73,3/4@17)
+YDelta(74,5/8@16,3/4@17,5/8@19)
+YDelta(108,-1/2@13,-5/8@15)
+YDelta(154,-5/8@21)
+YDelta(156,-3/8@21)
+YDelta(161,3/8@15,-1/2@16)
+XDelta(8,3/8@20)
+XDelta(9,1/4@20)
+XDelta(10,1/2@19..20)
+XDelta(11,1/2@19,3/8@20,1/2@21)
+XDelta(12,5/8@21)
+XDelta(13,7/8@21)
+XDelta(43,3/8@20)
+XDelta(44,5/8@20)
+XDelta(113,1@21)
+XDelta(114,5/8@21)
+XDelta(115,5/8@21)
+XDelta(117,5/8@19;21)
+XDelta(118,3/8@19,5/8@21)
+XDelta(156,-1/2@20)
+XDelta(158,1@21)
+XDelta(179,5/8@21)
+XDelta(180,1@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="Z">
+/* VTTTalk glyph 79, char 0x5a (Z) */
+/* GUI generated Fri Feb 25 18:09:23 2011 */
+
+/* Y direction */
+YAnchor(24)
+YLink(24,42)
+YLink(24,68)
+YLink(68,145)
+YAnchor(54)
+YLink(54,148)
+YAnchor(137)
+YLink(137,110)
+
+/* X direction */
+XAnchor(58)
+XLink(58,148)
+
+Smooth()
+YDelta(7,-1/4@23)
+YDelta(29,-1/2@20)
+YDelta(40,1/4@21,3/8@23)
+YDelta(107,-3/8@23)
+XDelta(8,-1/2@19)
+XDelta(9,-1/2@19)
+XDelta(30,-1/2@16)
+XDelta(107,1/4@23)
+
+    </glyphProgram>
+
+    <glyphProgram name="a">
+/* VTTTalk glyph 86, char 0x61 (a) */
+/* GUI generated Sat Feb 26 10:15:42 2011 */
+
+/* Y direction */
+YAnchor(5)
+YLink(5,73)
+YAnchor(28)
+YLink(28,122)
+YAnchor(47)
+YLink(47,102)
+YAnchor(58)
+YLink(58,75)
+
+/* X direction */
+XAnchor(34)
+XLink(34,111)
+XAnchor(63)
+XLink(63,86)
+XAnchor(92)
+XLink(92,77)
+XLink(77,67)
+XLink(67,0)
+XLink(67,16)
+
+Smooth()
+YDelta(10,3/4@19,1/2@20..21)
+YDelta(11,5/8@19..20,3/8@21)
+YDelta(30,5/8@13)
+YDelta(31,3/8@15,1/2@16)
+YDelta(32,3/8@13)
+YDelta(41,-1/4@21)
+YDelta(43,-1/2@13)
+YDelta(51,-5/8@12;16)
+YDelta(52,-1/2@13,-5/8@16)
+YDelta(67,-1/8@19)
+YDelta(68,-7/8@12,-3/4@13;15,-1@16..17,-5/8@19)
+YDelta(69,-1/2@11;15..16,-5/8@17)
+YDelta(96,1/2@20)
+YDelta(104,3/8@20)
+YDelta(105,1/2@11)
+YDelta(106,3/8@11;17)
+YDelta(107,5/8@17)
+YDelta(115,-1/4@17,-5/8@19)
+YDelta(116,-1/2@11)
+YDelta(117,-1/2@20,-5/8@21)
+YDelta(127,-3/8@15)
+XDelta(14,3/8@20,1/2@21)
+XDelta(15,5/8@20,1/2@21)
+XDelta(60,-5/8@21)
+XDelta(96,3/4@20)
+XDelta(127,3/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="acute">
+/* VTTTalk glyph 157, char 0xb4 */
+/* GUI generated Thu Feb 24 12:37:30 2011 */
+
+/* Y direction */
+YAnchor(23)
+YLink(23,7)
+
+/* X direction */
+XAnchor(0)
+XLink(0,10)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ae">
+/* VTTTalk glyph 167, char 0xe6 */
+/* GUI generated Thu Feb 24 12:46:35 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,109)
+YAnchor(17)
+YLink(17,172)
+YAnchor(44)
+YLink(44,156)
+YAnchor(67)
+YLink(67,131)
+YAnchor(80)
+YLink(80,139)
+
+/* X direction */
+XAnchor(34)
+XLink(34,163)
+XAnchor(121)
+XLink(121,114)
+XLink(121,73)
+XLink(73,145)
+XAnchor(134)
+XLink(134,147)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ampersand">
+/* VTTTalk glyph 27, char 0x26 (&amp;) */
+/* GUI generated Thu Feb 24 13:26:27 2011 */
+
+/* Y direction */
+YAnchor(9)
+YLink(9,173)
+YAnchor(25)
+YLink(25,135)
+YAnchor(47)
+YLink(47,89)
+YAnchor(103)
+YLink(103,114)
+YAnchor(168)
+YLink(168,149)
+YAnchor(199)
+YLink(199,185)
+
+/* X direction */
+XAnchor(2)
+XLink(2,180)
+XAnchor(13)
+XLink(13,141)
+XAnchor(29)
+XLink(29,124)
+XAnchor(41)
+XLink(41,97)
+XAnchor(72)
+XLink(72,84)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="apple">
+/* VTTTalk glyph 211, char 0xf8ff */
+/* GUI generated Thu Feb 24 13:15:28 2011 */
+
+/* Y direction */
+YAnchor(10)
+YLink(10,155)
+YAnchor(44)
+YLink(44,132)
+YAnchor(55)
+YLink(55,89)
+YAnchor(113)
+YLink(113,76)
+
+/* X direction */
+XAnchor(32)
+XLink(32,141)
+XAnchor(67)
+XLink(67,166)
+XAnchor(107)
+XLink(107,81)
+XAnchor(120)
+XLink(120,72)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="aring">
+/* VTTTalk glyph 128, char 0xe5 */
+/* GUI generated Sun Feb 27 12:18:54 2011 */
+
+/* Y direction */
+YAnchor(28)
+YLink(28,159)
+YAnchor(58)
+YLink(58,110)
+YAnchor(69)
+YLink(69,120)
+YLink(69,136)
+YLink(136,45)
+YAnchor(78)
+YLink(78,95)
+
+/* X direction */
+XAnchor(34)
+XLink(34,148)
+XAnchor(52)
+XLink(52,116)
+XAnchor(65)
+XLink(65,108)
+XAnchor(83)
+XLink(83,105)
+XAnchor(129)
+XLink(129,97)
+
+Smooth()
+YDelta(10,1/2@15,3/4@17)
+YDelta(11,1/2@15;17)
+YDelta(19,3/8@17)
+YDelta(20,1/2@21)
+YDelta(21,1/2@21)
+YDelta(42,-3/8@15)
+YDelta(43,-3/8@15..16)
+YDelta(71,-1/4@15,-3/8@20)
+YDelta(88,-5/8@12)
+YDelta(100,-3/8@19,-3/4@21)
+YDelta(101,-1/4@21)
+YDelta(133,3/8@16)
+YDelta(141,3/8@20,1/2@21)
+YDelta(142,3/8@11)
+YDelta(143,1/2@11)
+YDelta(144,3/8@21)
+YDelta(152,-5/8@17)
+YDelta(153,-5/8@11)
+YDelta(154,-5/8@21)
+YDelta(155,-3/8@21)
+YDelta(163,-3/8@12,-1/4@19)
+YDelta(164,-1/2@12,-3/8@15..16)
+YDelta(165,-5/8@21)
+XDelta(10,3/4@19)
+XDelta(11,7/8@19)
+XDelta(21,-1/2@20)
+XDelta(43,1/2@17)
+XDelta(80,-3/4@19)
+XDelta(86,-5/8@21)
+XDelta(87,-1/2@21)
+XDelta(88,-5/8@21)
+XDelta(89,-3/8@20,-7/8@21)
+XDelta(101,5/8@19)
+XDelta(102,3/8@21)
+XDelta(125,1@19,5/8@20)
+XDelta(126,3/4@20)
+XDelta(127,1@20)
+XDelta(128,1@20)
+XDelta(133,3/4@19)
+XDelta(141,-1/2@13,-3/8@19)
+XDelta(142,-1/2@13)
+XDelta(143,-1/4@13,-1/2@17)
+XDelta(154,-3/8@20)
+XDelta(163,1@19)
+XDelta(164,1@19)
+XDelta(165,1@19)
+
+    </glyphProgram>
+
+    <glyphProgram name="asciicircum">
+/* VTTTalk glyph 83, char 0x5e (^) */
+/* GUI generated Sat Feb 26 10:12:13 2011 */
+
+/* Y direction */
+YAnchor(31)
+YLink(31,2)
+YAnchor(55)
+YLink(55,17)
+
+/* X direction */
+XAnchor(35)
+XLink(35,67)
+
+Smooth()
+YDelta(7,1/2@15,5/8@16,3/4@19,1/2@20)
+YDelta(8,5/8@15..16)
+YDelta(17,1@20..21)
+YDelta(18,1@20,7/8@21)
+YDelta(20,3/4@20)
+YDelta(21,1/2@17,3/4@20)
+YDelta(27,5/8@19,3/4@20)
+YDelta(28,3/4@19,7/8@20)
+XDelta(7,1/2@20,5/8@21)
+XDelta(10,1/2@21)
+XDelta(11,3/8@20)
+XDelta(16,5/8@20)
+XDelta(18,-3/8@21)
+XDelta(19,-1/2@21)
+XDelta(20,-5/8@21)
+XDelta(24,-1/2@21)
+XDelta(25,-3/8@21)
+XDelta(27,-1/2@21)
+XDelta(28,-1/4@20,-1/2@21)
+XDelta(59,-5/8@20,-3/4@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="asciitilde">
+/* VTTTalk glyph 115, char 0x7e (~) */
+/* GUI generated Tue Feb 22 11:43:40 2011 */
+
+/* Y direction */
+YAnchor(5)
+YLink(5,50)
+YAnchor(37)
+YLink(37,13)
+
+/* X direction */
+XAnchor(28)
+XLink(28,0)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="asterisk">
+/* VTTTalk glyph 31, char 0x2a (*) */
+/* GUI generated Tue Feb 22 11:26:20 2011 */
+
+/* Y direction */
+
+/* X direction */
+XAnchor(59)
+XLink(59,48)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="at">
+/* VTTTalk glyph 53, char 0x40 (@) */
+/* GUI generated Tue Feb 22 11:35:01 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,65)
+YAnchor(24)
+YLink(24,170)
+YAnchor(44)
+YLink(44,163)
+YAnchor(125)
+YLink(125,100)
+YAnchor(158)
+YLink(158,86)
+
+/* X direction */
+XAnchor(0)
+XLink(0,77)
+XAnchor(34)
+XLink(34,167)
+XAnchor(55)
+XLink(55,177)
+XAnchor(147)
+XLink(147,91)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="b">
+/* VTTTalk glyph 87, char 0x62 (b) */
+/* GUI generated Sat Feb 26 10:18:26 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,118)
+YAnchor(53)
+YLink(53,18)
+YAnchor(67)
+YLink(67,89)
+
+/* X direction */
+XAnchor(58)
+XLink(58,32)
+XLink(58,101)
+XAnchor(78)
+XLink(78,82)
+
+Smooth()
+YDelta(2,1/2@12..13)
+YDelta(12,3/4@20)
+YDelta(13,3/8@20)
+YDelta(61,-1/4@20)
+YDelta(85,3/4@11)
+YDelta(94,5/8@12)
+YDelta(96,5/8@12)
+YDelta(123,-1/2@11)
+XDelta(2,-1/2@19)
+XDelta(9,3/8@21)
+XDelta(13,-3/8@21)
+XDelta(30,1/8@20,1/4@21)
+XDelta(56,-1/4@19,-1/8@20,-1/4@21)
+XDelta(85,1/4@15)
+XDelta(86,3/8@17)
+XDelta(93,-3/8@13,-3/4@19)
+XDelta(94,-5/8@19)
+XDelta(96,-1/2@13;19)
+XDelta(97,-3/8@19)
+XDelta(112,-3/8@11)
+XDelta(113,-1/2@11)
+XDelta(114,-1/4@16,-3/8@20)
+XDelta(122,3/8@15)
+
+    </glyphProgram>
+
+    <glyphProgram name="backslash">
+/* VTTTalk glyph 81, char 0x5c (\) */
+/* GUI generated Mon Feb 21 10:39:07 2011 */
+
+/* Y direction */
+YAnchor(26)
+YLink(26,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bar">
+/* VTTTalk glyph 113, char 0x7c (|) */
+/* GUI generated Tue Feb 22 11:43:04 2011 */
+
+/* Y direction */
+YAnchor(23)
+YLink(23,10)
+
+/* X direction */
+XAnchor(2)
+XLink(2,17)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="braceleft">
+/* VTTTalk glyph 112, char 0x7b ({) */
+/* GUI generated Tue Feb 22 11:42:53 2011 */
+
+/* Y direction */
+YAnchor(12)
+YLink(12,109)
+YAnchor(69)
+YLink(69,83)
+
+/* X direction */
+XAnchor(4)
+XLink(4,73)
+XAnchor(54)
+XLink(54,25)
+XLink(54,96)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="braceright">
+/* VTTTalk glyph 114, char 0x7d (}) */
+/* GUI generated Thu Feb 24 12:16:45 2011 */
+
+/* Y direction */
+YAnchor(4)
+YLink(4,120)
+YAnchor(30)
+YLink(30,43)
+YAnchor(79)
+YLink(79,71)
+YAnchor(103)
+YLink(103,113)
+
+/* X direction */
+XAnchor(93)
+XLink(93,17)
+XLink(93,62)
+XLink(62,48)
+XAnchor(108)
+XLink(108,109)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketleft">
+/* VTTTalk glyph 80, char 0x5b ([) */
+/* GUI generated Mon Feb 21 10:38:57 2011 */
+
+/* Y direction */
+YAnchor(9)
+YLink(9,88)
+YAnchor(48)
+YLink(48,61)
+
+/* X direction */
+XAnchor(3)
+XLink(3,56)
+XAnchor(26)
+XLink(26,74)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketright">
+/* VTTTalk glyph 82, char 0x5d (]) */
+/* GUI generated Mon Feb 21 10:39:26 2011 */
+
+/* Y direction */
+YAnchor(5)
+YLink(5,16)
+YAnchor(39)
+YLink(39,22)
+
+/* X direction */
+XAnchor(11)
+XLink(11,32)
+XAnchor(56)
+XLink(56,19)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="breve">
+/* VTTTalk glyph 220, char 0x2d8 */
+/* GUI generated Sun Feb 27 11:51:26 2011 */
+
+/* Y direction */
+YAnchor(5)
+YLink(5,30)
+YLink(30,19)
+YLink(30,37)
+
+/* X direction */
+XAnchor(15)
+XLink(15,25)
+XLink(25,41)
+XLink(41,35)
+
+Smooth()
+YDelta(2,3/4@11,3/8@12,1/2@13;15)
+YDelta(9,1/2@12..13;15)
+YDelta(10,1/2@11)
+
+    </glyphProgram>
+
+    <glyphProgram name="brokenbar">
+/* VTTTalk glyph 18, char 0xa6 */
+/* GUI generated Tue Feb 22 11:22:30 2011 */
+
+/* Y direction */
+YAnchor(24)
+YLink(24,3)
+YAnchor(60)
+YLink(60,45)
+
+/* X direction */
+XAnchor(33)
+XLink(33,13)
+XLink(33,38)
+XLink(38,52)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bullet">
+/* VTTTalk glyph 152, char 0x2022 */
+/* GUI generated Thu Feb 24 12:32:48 2011 */
+
+/* Y direction */
+YAnchor(21)
+YLink(21,6)
+
+/* X direction */
+XAnchor(13)
+XLink(13,28)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="c">
+/* VTTTalk glyph 88, char 0x63 (c) */
+/* GUI generated Sat Feb 26 10:20:28 2011 */
+
+/* Y direction */
+YAnchor(59)
+YLink(59,26)
+YAnchor(91)
+YLink(91,9)
+
+/* X direction */
+XAnchor(42)
+XLink(42,105)
+XAnchor(74)
+XLink(74,18)
+
+Smooth()
+YDelta(2,1@21)
+YDelta(4,1/4@21)
+YDelta(13,3/8@16)
+YDelta(14,1/2@16)
+YDelta(22,-3/8@16,-1/8@21)
+YDelta(23,-3/8@16)
+YDelta(42,1/4@20)
+YDelta(46,1/2@20,3/4@21)
+YDelta(68,3/8@11)
+YDelta(79,-3/8@17)
+YDelta(84,-1/2@11)
+YDelta(100,-3/8@20)
+XDelta(22,-1/2@17,-3/8@21)
+XDelta(42,-3/4@19)
+XDelta(43,-1/2@19)
+XDelta(44,-1/2@19)
+XDelta(45,-5/8@19)
+XDelta(46,-3/8@19)
+XDelta(99,-7/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="caron">
+/* VTTTalk glyph 226, char 0x2c7 */
+/* GUI generated Sun Feb 27 11:50:17 2011 */
+
+/* Y direction */
+YAnchor(4)
+YLink(4,22)
+YLink(22,16)
+YLink(16,28)
+
+/* X direction */
+XAnchor(13)
+XLink(13,18)
+XLink(13,0)
+XLink(0,25)
+
+Smooth()
+YDelta(19,-5/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="ccedilla">
+/* VTTTalk glyph 129, char 0xe7 */
+/* GUI generated Sun Feb 27 12:13:44 2011 */
+
+/* Y direction */
+YAnchor(5)
+YLink(5,63)
+YLink(5,128)
+YLink(5,9)
+YLink(9,49)
+YAnchor(25)
+YLink(25,40)
+YAnchor(82)
+YLink(82,107)
+
+/* X direction */
+XAnchor(19)
+XLink(19,46)
+XAnchor(73)
+XLink(73,118)
+XAnchor(140)
+XLink(140,92)
+XAnchor(141)
+XLink(141,133)
+
+Smooth()
+YDelta(21,1/2@12..13;15)
+YDelta(43,-1/2@23)
+YDelta(68,3/8@12)
+YDelta(70,1/4@21)
+YDelta(71,3/8@12)
+YDelta(77,-3/8@11)
+YDelta(78,-1/4@19,-1/8@20)
+YDelta(89,-1/4@20,-1/2@21)
+YDelta(103,1/4@16,3/8@17;23)
+YDelta(112,3/8@17)
+YDelta(113,1/2@17)
+YDelta(123,-5/8@13,-1/2@20)
+YDelta(124,-3/8@11,-1/2@13,-3/8@17,-1/2@19,-3/8@20)
+YDelta(125,-1/4@23)
+YDelta(131,-3/8@16,-1/2@23)
+YDelta(132,-3/8@20)
+XDelta(86,-3/8@19)
+XDelta(89,-1/4@19)
+XDelta(131,3/8@16)
+
+    </glyphProgram>
+
+    <glyphProgram name="cedilla">
+/* VTTTalk glyph 223, char 0xb8 */
+/* GUI generated Thu Feb 24 13:19:35 2011 */
+
+/* Y direction */
+YAnchor(5)
+YLink(5,26)
+YAnchor(58)
+YLink(58,39)
+YLink(58,50)
+
+/* X direction */
+XAnchor(0)
+XLink(0,33)
+XAnchor(14)
+XLink(14,46)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="cent">
+/* VTTTalk glyph 149, char 0xa2 */
+/* GUI generated Thu Feb 24 12:29:22 2011 */
+
+/* Y direction */
+YAnchor(4)
+YLink(4,106)
+YAnchor(49)
+YLink(49,85)
+YAnchor(62)
+YLink(62,72)
+
+/* X direction */
+XAnchor(0)
+XLink(0,110)
+XLink(0,55)
+XLink(55,78)
+XLink(78,67)
+XAnchor(8)
+XLink(8,18)
+XAnchor(26)
+XLink(26,95)
+XAnchor(47)
+XLink(47,36)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflex">
+/* VTTTalk glyph 217, char 0x2c6 */
+/* GUI generated Sun Feb 27 11:52:30 2011 */
+
+/* Y direction */
+YAnchor(14)
+YLink(14,2)
+YAnchor(20)
+YLink(20,8)
+
+/* X direction */
+XAnchor(29)
+XLink(29,16)
+
+Smooth()
+YDelta(5,1/2@21,5/8@23)
+YDelta(6,3/8@17,1/2@23)
+YDelta(7,1@23)
+YDelta(8,1@23)
+YDelta(9,1/4@23)
+
+    </glyphProgram>
+
+    <glyphProgram name="colon">
+/* VTTTalk glyph 47, char 0x3a (:) */
+/* GUI generated Tue Feb 22 11:32:21 2011 */
+
+/* Y direction */
+YAnchor(17)
+YLink(17,6)
+YAnchor(27)
+YLink(27,34)
+
+/* X direction */
+XAnchor(13)
+XLink(13,2)
+XAnchor(30)
+XLink(30,38)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="comma">
+/* VTTTalk glyph 33, char 0x2c (,) */
+/* GUI generated Tue Feb 22 11:27:17 2011 */
+
+/* Y direction */
+YAnchor(29)
+YLink(29,15)
+
+/* X direction */
+XAnchor(2)
+XLink(2,22)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="copyright">
+/* VTTTalk glyph 156, char 0xa9 */
+/* GUI generated Thu Feb 24 12:36:57 2011 */
+
+/* Y direction */
+YAnchor(12)
+YLink(12,90)
+YAnchor(34)
+YLink(34,65)
+YAnchor(109)
+YLink(109,160)
+YAnchor(135)
+YLink(135,147)
+
+/* X direction */
+XAnchor(24)
+XLink(24,76)
+XAnchor(47)
+XLink(47,54)
+XAnchor(118)
+XLink(118,154)
+XAnchor(171)
+XLink(171,140)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="currency">
+/* VTTTalk glyph 228, char 0xa4 */
+/* GUI generated Thu Feb 24 13:22:14 2011 */
+
+/* Y direction */
+YAnchor(35)
+YLink(35,126)
+YAnchor(88)
+YLink(88,109)
+
+/* X direction */
+XAnchor(15)
+XLink(15,102)
+XAnchor(63)
+XLink(63,120)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="d">
+/* VTTTalk glyph 89, char 0x64 (d) */
+/* GUI generated Sat Feb 26 10:26:55 2011 */
+
+/* Y direction */
+YAnchor(8)
+YLink(8,0)
+YAnchor(25)
+YLink(25,149)
+YAnchor(47)
+YLink(47,134)
+YAnchor(63)
+YLink(63,99)
+
+/* X direction */
+XAnchor(36)
+XLink(36,140)
+XAnchor(57)
+XLink(57,109)
+XAnchor(69)
+XLink(69,97)
+XLink(158,0)
+
+Smooth()
+YDelta(10,3/4@19)
+YDelta(11,1/2@13,7/8@16,5/8@19)
+YDelta(12,7/8@19)
+YDelta(13,1/2@16,5/8@19)
+YDelta(16,3/8@19)
+YDelta(50,-5/8@19;21)
+YDelta(51,-1@19)
+YDelta(52,-1@19)
+YDelta(53,-1@19)
+YDelta(54,-1@19)
+YDelta(66,-1/2@12,-5/8@15,-3/4@16;19)
+YDelta(67,-1/4@12)
+YDelta(71,1/2@19)
+YDelta(76,-5/8@12,-1/2@15)
+YDelta(114,-3/4@21)
+YDelta(137,1/2@12..13)
+YDelta(138,3/4@13,3/8@16)
+YDelta(144,-1/2@12..13)
+YDelta(145,-1/2@13)
+XDelta(10,5/8@17,3/4@20,1@21)
+XDelta(11,3/4@17;20,7/8@21)
+XDelta(12,1/2@20,5/8@21)
+XDelta(13,1/2@17;20,3/4@21)
+XDelta(15,1/2@19)
+XDelta(18,-3/8@21)
+XDelta(19,-1/4@21)
+XDelta(41,1/2@19,1/4@21)
+XDelta(42,5/8@19)
+XDelta(60,-1/4@20)
+XDelta(66,-3/8@17)
+XDelta(70,-1/4@21)
+XDelta(71,-1/2@15,-5/8@20,-1/4@21)
+XDelta(72,-5/8@15,-3/8@17)
+XDelta(73,-5/8@15)
+XDelta(74,-5/8@15;17,-1/4@19,-3/4@20,-1/2@21)
+XDelta(75,-5/8@12,-3/8@15,-1/2@21)
+XDelta(76,-5/8@12,-3/4@15)
+XDelta(88,7/8@20)
+XDelta(91,3/8@20)
+XDelta(104,-5/8@20)
+XDelta(105,-3/8@20)
+XDelta(123,3/8@16)
+XDelta(124,1/2@16,1/4@21)
+XDelta(125,5/8@16,3/8@21)
+XDelta(126,7/8@16)
+XDelta(129,5/8@17)
+XDelta(136,-5/8@20)
+XDelta(137,-5/8@11,-1/2@17,-5/8@20)
+XDelta(138,-1/2@20)
+XDelta(145,-1/2@11,-3/8@20)
+XDelta(155,3/8@17)
+XDelta(156,1/8@16,3/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="degree">
+/* VTTTalk glyph 148, char 0xb0 */
+/* GUI generated Thu Feb 24 12:28:23 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,45)
+YAnchor(23)
+YLink(23,35)
+
+/* X direction */
+XAnchor(15)
+XLink(15,40)
+XAnchor(30)
+XLink(30,31)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dieresis">
+/* VTTTalk glyph 158, char 0xa8 */
+/* GUI generated Thu Feb 24 12:37:55 2011 */
+
+/* Y direction */
+YAnchor(17)
+YLink(17,5)
+YAnchor(23)
+YLink(23,33)
+
+/* X direction */
+XAnchor(0)
+XLink(0,11)
+XAnchor(28)
+XLink(28,38)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="divide">
+/* VTTTalk glyph 187, char 0xf7 */
+/* GUI generated Thu Feb 24 12:55:40 2011 */
+
+/* Y direction */
+YAnchor(17)
+YLink(17,6)
+YLink(6,43)
+YLink(43,23)
+YLink(23,66)
+YLink(66,55)
+
+/* X direction */
+XAnchor(11)
+XLink(11,2)
+XAnchor(33)
+XLink(33,19)
+XAnchor(62)
+XLink(62,71)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dollar">
+/* VTTTalk glyph 25, char 0x24 ($) */
+/* GUI generated Sun Feb 27 12:01:13 2011 */
+
+/* Y direction */
+YAnchor(11)
+YLink(11,63)
+YLink(63,29)
+YAnchor(94)
+YLink(94,137)
+YAnchor(155)
+YLink(155,73)
+
+/* X direction */
+XAnchor(2)
+XLink(2,68)
+XAnchor(12)
+XLink(12,26)
+XAnchor(36)
+XLink(36,54)
+XAnchor(83)
+XLink(83,149)
+XAnchor(106)
+XLink(106,95)
+XAnchor(120)
+XLink(120,131)
+
+Smooth()
+YDelta(5,1/2@19)
+YDelta(33,5/8@21)
+YDelta(39,-1/2@17)
+YDelta(40,-1/2@17)
+YDelta(41,-1/2@16)
+YDelta(49,3/8@19)
+YDelta(66,-1/2@20)
+YDelta(70,3/4@20,1@21)
+YDelta(71,3/4@16,1@20..21)
+YDelta(72,1@16,3/8@20,7/8@21)
+YDelta(73,1@16,5/8@19..20)
+YDelta(74,1/4@19)
+YDelta(75,1/4@19,1/2@20)
+YDelta(90,-1/2@16)
+YDelta(91,-1/4@16,-3/8@17)
+YDelta(92,-5/8@16)
+YDelta(140,1/4@20,3/8@21)
+YDelta(151,-1/2@16..17,-3/4@21)
+YDelta(152,-5/8@21)
+YDelta(154,-3/4@17;20,-1@21)
+YDelta(155,-5/8@17;19)
+
+    </glyphProgram>
+
+    <glyphProgram name="dotaccent">
+/* VTTTalk glyph 221, char 0x2d9 */
+/* GUI generated Thu Feb 24 13:18:35 2011 */
+
+/* Y direction */
+YAnchor(18)
+YLink(18,8)
+
+/* X direction */
+XAnchor(13)
+XLink(13,2)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dotlessi">
+/* VTTTalk glyph 216, char 0x131 */
+/* GUI generated Thu Feb 24 13:16:00 2011 */
+
+/* Y direction */
+YAnchor(3)
+YLink(3,17)
+
+/* X direction */
+XAnchor(11)
+XLink(11,32)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="e">
+/* VTTTalk glyph 90, char 0x65 (e) */
+/* GUI generated Sat Feb 26 10:28:31 2011 */
+
+/* Y direction */
+YAnchor(9)
+YLink(9,64)
+YAnchor(30)
+YLink(30,85)
+YAnchor(49)
+YLink(49,96)
+
+/* X direction */
+XAnchor(0)
+XLink(0,39)
+XLink(39,79)
+XAnchor(16)
+XLink(16,56)
+
+Smooth()
+YDelta(1,1/2@17)
+YDelta(2,3/8@16)
+YDelta(4,5/8@16)
+YDelta(12,3/8@19)
+YDelta(34,-3/8@19)
+YDelta(35,-1/4@11)
+YDelta(36,-1/2@19)
+YDelta(43,5/8@16,1/2@17)
+YDelta(59,-3/8@15,-1/2@16,-3/4@17)
+YDelta(69,-3/8@20)
+YDelta(102,-3/8@19)
+YDelta(103,-1/4@15)
+XDelta(36,-1/4@21)
+XDelta(59,-1/4@21)
+XDelta(69,3/8@21)
+XDelta(89,-5/8@20)
+XDelta(91,-1@20)
+XDelta(92,-1@20)
+XDelta(93,-5/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="eight">
+/* VTTTalk glyph 45, char 0x38 (8) */
+/* GUI generated Sun Feb 27 11:40:41 2011 */
+
+/* Y direction */
+YAnchor(9)
+YLink(9,137)
+YAnchor(45)
+YLink(45,79)
+YAnchor(95)
+YLink(95,118)
+
+/* X direction */
+XAnchor(0)
+XLink(0,106)
+XAnchor(20)
+XLink(20,124)
+XAnchor(32)
+XLink(32,86)
+XAnchor(56)
+XLink(56,102)
+
+Smooth()
+YDelta(3,1/2@20..21)
+YDelta(14,1/2@20,3/8@21)
+YDelta(24,-1/2@19)
+YDelta(29,1/2@20,3/8@21)
+YDelta(37,-3/8@21)
+YDelta(75,1/2@19,1/4@20,3/8@21)
+YDelta(84,1/4@19)
+YDelta(99,-1/2@21)
+YDelta(115,1/4@19)
+YDelta(120,1/4@19,1/2@20..21)
+YDelta(121,1/2@20..21)
+YDelta(128,-1/2@19)
+YDelta(142,-1/4@17)
+XDelta(24,3/8@16)
+XDelta(27,3/8@17)
+XDelta(28,3/4@17)
+XDelta(29,3/8@12,1/4@16,3/8@17)
+XDelta(37,1/2@20)
+XDelta(38,1/2@20)
+XDelta(59,-1/2@17)
+XDelta(65,-1/8@17)
+XDelta(74,1/4@15)
+XDelta(75,1/2@13,5/8@15..16,3/8@20)
+XDelta(76,3/4@16)
+XDelta(83,-1/2@13)
+XDelta(99,5/8@15)
+XDelta(114,1/4@13,1/2@15)
+XDelta(115,5/8@15)
+XDelta(120,-3/8@13)
+XDelta(128,-3/8@17)
+XDelta(129,-1/2@17)
+XDelta(130,-5/8@12,-1/2@13)
+XDelta(131,-5/8@12..13)
+XDelta(132,-5/8@17)
+XDelta(143,1/2@12..13)
+XDelta(144,1/4@13)
+
+    </glyphProgram>
+
+    <glyphProgram name="emdash">
+/* VTTTalk glyph 182, char 0x2014 */
+/* GUI generated Thu Feb 24 12:52:55 2011 */
+
+/* Y direction */
+YAnchor(52)
+YLink(52,11)
+YLink(52,47)
+YLink(47,16)
+
+/* X direction */
+XAnchor(73)
+XLink(73,27)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="endash">
+/* VTTTalk glyph 181, char 0x2013 */
+/* GUI generated Thu Feb 24 12:52:31 2011 */
+
+/* Y direction */
+YAnchor(20)
+YLink(20,6)
+
+/* X direction */
+XAnchor(25)
+XLink(25,15)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="equal">
+/* VTTTalk glyph 50, char 0x3d (=) */
+/* GUI generated Tue Feb 22 11:33:29 2011 */
+
+/* Y direction */
+YAnchor(23)
+YLink(23,4)
+YLink(4,53)
+YLink(53,38)
+
+/* X direction */
+XAnchor(48)
+XLink(48,14)
+XAnchor(58)
+XLink(58,0)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="eth">
+/* VTTTalk glyph 1, char 0xf0 */
+/* GUI generated Tue Feb 22 11:17:45 2011 */
+
+/* Y direction */
+YAnchor(19)
+YLink(19,141)
+YAnchor(36)
+YLink(36,113)
+YAnchor(77)
+YLink(77,63)
+
+/* X direction */
+XAnchor(6)
+XLink(6,147)
+XLink(147,39)
+XAnchor(25)
+XLink(25,130)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="exclam">
+/* VTTTalk glyph 22, char 0x21 (!) */
+/* GUI generated Tue Feb 22 11:23:32 2011 */
+
+/* Y direction */
+YAnchor(38)
+YLink(38,18)
+YLink(18,54)
+YAnchor(55)
+YLink(55,42)
+
+/* X direction */
+XAnchor(23)
+XLink(23,13)
+XAnchor(49)
+XLink(49,59)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="exclamdown">
+/* VTTTalk glyph 170, char 0xa1 */
+/* GUI generated Thu Feb 24 12:48:17 2011 */
+
+/* Y direction */
+YAnchor(10)
+YLink(10,0)
+YAnchor(28)
+YLink(28,65)
+
+/* X direction */
+XAnchor(6)
+XLink(6,14)
+XAnchor(43)
+XLink(43,75)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="f">
+/* VTTTalk glyph 91, char 0x66 (f) */
+/* GUI generated Sat Feb 26 10:29:42 2011 */
+
+/* Y direction */
+YAnchor(35)
+YLink(35,50)
+YAnchor(95)
+YLink(95,21)
+YLink(106,71)
+YLink(107,5)
+
+/* X direction */
+XAnchor(76)
+XLink(76,55)
+XAnchor(104)
+XLink(104,17)
+
+Smooth()
+YDelta(0,3/8@13;15)
+YDelta(19,3/8@19;21)
+YDelta(25,3/8@17)
+YDelta(26,5/8@17)
+YDelta(92,-3/8@11)
+YDelta(100,-3/8@11)
+YDelta(101,-1/2@11,-3/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="fi">
+/* VTTTalk glyph 194, char 0xfb01 */
+/* GUI generated Thu Feb 24 12:58:44 2011 */
+
+/* Y direction */
+YAnchor(53)
+YLink(53,19)
+YAnchor(79)
+YLink(79,95)
+YLink(79,133)
+YLink(133,122)
+YAnchor(115)
+YLink(115,1)
+YAnchor(140)
+YLink(140,66)
+
+/* X direction */
+XAnchor(13)
+XLink(13,32)
+XAnchor(120)
+XLink(120,103)
+XLink(103,74)
+XLink(74,86)
+XLink(120,135)
+XLink(135,130)
+XAnchor(149)
+XLink(149,62)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="five">
+/* VTTTalk glyph 42, char 0x35 (5) */
+/* GUI generated Sat Feb 26 22:46:40 2011 */
+
+/* Y direction */
+YAnchor(16)
+YLink(16,57)
+YAnchor(104)
+YLink(104,117)
+YAnchor(127)
+YLink(127,73)
+
+/* X direction */
+XAnchor(2)
+XLink(2,68)
+XAnchor(33)
+XLink(33,50)
+XAnchor(89)
+XLink(89,123)
+XLink(138,110)
+
+Smooth()
+YDelta(8,3/8@17)
+YDelta(29,1/4@19)
+YDelta(30,1/2@19..20)
+YDelta(37,-5/8@20)
+YDelta(45,1/4@21)
+YDelta(46,1/2@21)
+YDelta(53,-1/2@15,-1/4@16,-1/2@17)
+YDelta(62,-1/4@15,-3/8@16;19..20)
+YDelta(63,-1/2@15)
+YDelta(71,1/2@11..12)
+YDelta(72,1/2@19,1/4@20)
+YDelta(124,-3/4@17;19..20)
+YDelta(131,-3/8@13)
+XDelta(29,5/8@21)
+XDelta(46,-3/8@21)
+XDelta(74,-5/8@21)
+XDelta(132,-3/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="fl">
+/* VTTTalk glyph 195, char 0xfb02 */
+/* GUI generated Thu Feb 24 12:59:56 2011 */
+
+/* Y direction */
+YAnchor(34)
+YLink(34,51)
+YLink(34,88)
+YLink(88,77)
+YAnchor(71)
+YLink(71,3)
+YAnchor(94)
+YLink(94,22)
+
+/* X direction */
+XAnchor(11)
+XLink(11,106)
+XAnchor(58)
+XLink(58,29)
+XLink(29,42)
+XLink(58,75)
+XLink(75,90)
+XLink(90,84)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="four">
+/* VTTTalk glyph 41, char 0x34 (4) */
+/* GUI generated Sat Feb 26 22:44:51 2011 */
+
+/* Y direction */
+
+/* X direction */
+XAnchor(73)
+XLink(73,135)
+XAnchor(95)
+XLink(95,83)
+XAnchor(118)
+XLink(118,15)
+XLink(15,0)
+XLink(118,105)
+XLink(105,39)
+
+Smooth()
+YDelta(125,-5/8@19)
+XDelta(75,5/8@15,1/4@19)
+XDelta(99,-3/8@15)
+XDelta(129,1/2@19..20)
+XDelta(139,1/4@17,5/8@20,3/4@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="fraction">
+/* VTTTalk glyph 190, char 0x2044 */
+/* GUI generated Thu Feb 24 12:56:01 2011 */
+
+/* Y direction */
+YAnchor(43)
+YLink(43,16)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="g">
+/* VTTTalk glyph 92, char 0x67 (g) */
+/* GUI generated Sat Feb 26 10:31:50 2011 */
+
+/* Y direction */
+YAnchor(17)
+YLink(17,175)
+YAnchor(41)
+YLink(41,156)
+YAnchor(51)
+YLink(51,145)
+YAnchor(70)
+YLink(70,129)
+YAnchor(81)
+YLink(81,91)
+
+/* X direction */
+XAnchor(0)
+XLink(0,187)
+XAnchor(27)
+XLink(27,167)
+XAnchor(60)
+XLink(60,137)
+XAnchor(99)
+XLink(99,117)
+XAnchor(106)
+XLink(106,46)
+
+Smooth()
+YDelta(66,-1/4@13)
+YDelta(102,1/2@11)
+YDelta(111,-3/4@13)
+YDelta(112,-1/2@13)
+YDelta(133,3/8@11..12)
+YDelta(149,-3/8@13)
+XDelta(4,-1/4@19,-3/8@20)
+XDelta(22,3/4@16,5/8@17)
+XDelta(31,1/2@15)
+XDelta(37,5/8@15)
+XDelta(66,3/8@19,1/2@21)
+XDelta(95,-5/8@13,-1/2@15)
+XDelta(103,-1/4@16,-1/2@19)
+XDelta(113,3/8@21)
+XDelta(121,5/8@19)
+XDelta(122,5/8@21)
+XDelta(124,5/8@19;21)
+XDelta(132,-3/8@16..17)
+XDelta(133,-3/8@16,-1/2@17)
+XDelta(141,-1/4@15)
+XDelta(148,3/8@21)
+XDelta(152,1/2@21)
+XDelta(160,-1/2@20)
+XDelta(171,-3/8@15)
+XDelta(183,1/4@16..17)
+
+    </glyphProgram>
+
+    <glyphProgram name="germandbls">
+/* VTTTalk glyph 154, char 0xdf */
+/* GUI generated Thu Feb 24 12:34:34 2011 */
+
+/* Y direction */
+YAnchor(7)
+YLink(7,20)
+YLink(7,110)
+YAnchor(40)
+YLink(40,177)
+YAnchor(62)
+YLink(62,170)
+YAnchor(142)
+YLink(142,86)
+
+/* X direction */
+XAnchor(49)
+XLink(49,174)
+XAnchor(127)
+XLink(127,95)
+XAnchor(147)
+XLink(147,81)
+XAnchor(166)
+XLink(166,30)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="grave">
+/* VTTTalk glyph 85, char 0x60 (`) */
+/* GUI generated Mon Feb 21 10:40:17 2011 */
+
+/* Y direction */
+YAnchor(17)
+YLink(17,2)
+
+/* X direction */
+XAnchor(0)
+XLink(0,13)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="greater">
+/* VTTTalk glyph 51, char 0x3e (>) */
+/* GUI generated Tue Feb 22 11:33:52 2011 */
+
+/* Y direction */
+YAnchor(55)
+YLink(55,15)
+
+/* X direction */
+XAnchor(73)
+XLink(73,36)
+XLink(36,51)
+XLink(51,21)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="guillemotleft">
+/* VTTTalk glyph 172, char 0xab */
+/* GUI generated Thu Feb 24 12:49:23 2011 */
+
+/* Y direction */
+YAnchor(58)
+YLink(58,4)
+YAnchor(80)
+YLink(80,37)
+
+/* X direction */
+XAnchor(19)
+XLink(19,45)
+XLink(45,40)
+XLink(40,1)
+XAnchor(69)
+XLink(69,100)
+XLink(100,84)
+XAnchor(85)
+XLink(85,53)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="guillemotright">
+/* VTTTalk glyph 173, char 0xbb */
+/* GUI generated Thu Feb 24 12:50:02 2011 */
+
+/* Y direction */
+YAnchor(61)
+YLink(61,7)
+YAnchor(87)
+YLink(87,34)
+
+/* X direction */
+XAnchor(41)
+XLink(41,20)
+XLink(20,13)
+XLink(20,29)
+XAnchor(45)
+XLink(45,77)
+XLink(77,82)
+XLink(82,65)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglleft">
+/* VTTTalk glyph 192, char 0x2039 */
+/* GUI generated Thu Feb 24 12:57:02 2011 */
+
+/* Y direction */
+YAnchor(29)
+YLink(29,6)
+
+/* X direction */
+XAnchor(18)
+XLink(18,49)
+XLink(49,1)
+XLink(49,33)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglright">
+/* VTTTalk glyph 193, char 0x203a */
+/* GUI generated Thu Feb 24 12:57:26 2011 */
+
+/* Y direction */
+YAnchor(40)
+YLink(40,16)
+
+/* X direction */
+XAnchor(64)
+XLink(64,32)
+XLink(32,20)
+XLink(32,37)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="h">
+/* VTTTalk glyph 93, char 0x68 (h) */
+/* GUI generated Sat Feb 26 10:33:35 2011 */
+
+/* Y direction */
+YAnchor(39)
+YLink(39,11)
+YAnchor(77)
+YLink(77,27)
+YLink(83,65)
+
+/* X direction */
+XAnchor(1)
+XLink(1,21)
+XAnchor(72)
+XLink(72,49)
+
+Smooth()
+YDelta(73,-1/2@17;19)
+XDelta(29,-3/8@15..16;21)
+XDelta(31,-1/4@15,-3/8@16,-1/4@17,-1/2@21)
+XDelta(32,-1/4@17,-3/8@19,-1/2@20,-5/8@21)
+XDelta(68,-3/8@19..20,-1/4@21)
+XDelta(69,-1/4@21)
+XDelta(80,-1/2@15..16,-1/4@17;19)
+XDelta(81,-1/4@15,-1/2@16)
+
+    </glyphProgram>
+
+    <glyphProgram name="hungarumlaut">
+/* VTTTalk glyph 224, char 0x2dd */
+/* GUI generated Thu Feb 24 13:20:08 2011 */
+
+/* Y direction */
+YAnchor(18)
+YLink(18,8)
+YAnchor(40)
+YLink(40,30)
+
+/* X direction */
+XAnchor(2)
+XLink(2,13)
+XLink(13,24)
+XLink(24,35)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hyphen">
+/* VTTTalk glyph 34, char 0x2d (-) */
+/* GUI generated Tue Feb 22 11:27:30 2011 */
+
+/* Y direction */
+YAnchor(20)
+YLink(20,6)
+
+/* X direction */
+XAnchor(25)
+XLink(25,15)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="i">
+/* VTTTalk glyph 94, char 0x69 (i) */
+/* GUI generated Sat Feb 26 10:36:05 2011 */
+
+/* Y direction */
+YAnchor(3)
+YLink(3,12)
+YAnchor(25)
+YLink(25,41)
+
+/* X direction */
+XAnchor(18)
+XLink(18,7)
+XAnchor(34)
+XLink(34,55)
+
+Smooth()
+XDelta(32,1/4@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="j">
+/* VTTTalk glyph 95, char 0x6a (j) */
+/* GUI generated Sat Feb 26 10:38:17 2011 */
+
+/* Y direction */
+YAnchor(13)
+YLink(13,0)
+YLink(0,80)
+YAnchor(36)
+YLink(36,54)
+
+/* X direction */
+XAnchor(18)
+XLink(18,5)
+XAnchor(88)
+XLink(88,68)
+XLink(90,44)
+
+Smooth()
+YDelta(38,1/2@23)
+YDelta(39,3/8@23)
+YDelta(51,-3/8@21)
+YDelta(58,-1/4@17)
+XDelta(24,-3/8@15)
+XDelta(25,-3/8@11,-1/2@12)
+XDelta(30,-1/2@15)
+XDelta(32,-5/8@15)
+XDelta(58,1/2@13;16,3/8@17)
+XDelta(59,3/8@16,1/2@17)
+XDelta(60,1/4@17)
+XDelta(63,3/8@17)
+XDelta(64,1/4@19)
+XDelta(83,-1/4@20..21,-3/8@23)
+
+    </glyphProgram>
+
+    <glyphProgram name="k">
+/* VTTTalk glyph 96, char 0x6b (k) */
+/* GUI generated Sat Feb 26 10:41:07 2011 */
+
+/* Y direction */
+YAnchor(42)
+YLink(42,15)
+
+/* X direction */
+XAnchor(0)
+XLink(0,63)
+XAnchor(49)
+XLink(49,8)
+XLink(49,29)
+
+Smooth()
+YDelta(4,5/8@20)
+YDelta(6,1/2@20)
+YDelta(7,3/4@20)
+YDelta(50,-3/4@20)
+YDelta(51,-3/8@20)
+YDelta(53,-5/8@20)
+YDelta(55,-5/8@20)
+YDelta(56,-3/4@20)
+YDelta(75,-5/8@17)
+YDelta(78,-1/2@19)
+XDelta(4,5/8@21)
+XDelta(5,1/2@21)
+XDelta(6,1/2@21)
+XDelta(12,-3/8@20)
+XDelta(13,-3/8@21)
+XDelta(46,-1/4@17;19;21)
+XDelta(56,3/8@21)
+XDelta(70,-3/4@17)
+XDelta(71,-3/4@13,-3/8@16,-5/8@17)
+XDelta(72,-5/8@13;17)
+XDelta(73,-3/4@13,-1/2@16,-1@17)
+XDelta(74,-5/8@13;16..17)
+
+    </glyphProgram>
+
+    <glyphProgram name="l">
+/* VTTTalk glyph 97, char 0x6c (l) */
+/* GUI generated Sat Feb 26 10:41:48 2011 */
+
+/* Y direction */
+YAnchor(22)
+YLink(22,5)
+
+/* X direction */
+XAnchor(30)
+XLink(30,12)
+
+Smooth()
+XDelta(10,1/4@19..20,1/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="less">
+/* VTTTalk glyph 49, char 0x3c (&lt;) */
+/* GUI generated Tue Feb 22 11:33:05 2011 */
+
+/* Y direction */
+YAnchor(0)
+YLink(0,27)
+
+/* X direction */
+XAnchor(45)
+XLink(45,13)
+XLink(13,2)
+XLink(2,22)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="logicalnot">
+/* VTTTalk glyph 171, char 0xac */
+/* GUI generated Thu Feb 24 12:48:42 2011 */
+
+/* Y direction */
+YAnchor(49)
+YLink(49,37)
+YLink(37,6)
+
+/* X direction */
+XAnchor(68)
+XLink(68,28)
+XLink(28,43)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="lslash">
+/* VTTTalk glyph 3, char 0x142 */
+/* GUI generated Tue Feb 22 11:18:24 2011 */
+
+/* Y direction */
+YAnchor(47)
+YLink(47,11)
+
+/* X direction */
+XAnchor(39)
+XLink(39,53)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="m">
+/* VTTTalk glyph 98, char 0x6d (m) */
+/* GUI generated Sat Feb 26 10:46:37 2011 */
+
+/* Y direction */
+YAnchor(102)
+YLink(102,66)
+YLink(66,16)
+YAnchor(132)
+YLink(132,79)
+YLink(132,118)
+YAnchor(142)
+YLink(142,42)
+
+/* X direction */
+XAnchor(2)
+XLink(2,33)
+XAnchor(58)
+XLink(58,72)
+XAnchor(98)
+XLink(98,104)
+
+Smooth()
+YDelta(84,5/8@11)
+YDelta(127,-7/8@12,-1/2@20)
+YDelta(128,-1/2@12)
+YDelta(129,-3/4@12)
+YDelta(134,-3/4@12)
+XDelta(6,-3/8@19)
+XDelta(9,-5/8@21)
+XDelta(36,3/8@20..21)
+XDelta(37,3/8@21)
+XDelta(47,-1/2@15,-5/8@16,-3/8@17;20,-1/2@21)
+XDelta(48,-1/2@11,-5/8@21)
+XDelta(49,-3/8@12,-5/8@15,-3/4@17)
+XDelta(50,-1/2@12..13,-3/4@15;17,-1/2@19,-1@21)
+XDelta(51,-1/2@16..17;19,-3/8@20..21)
+XDelta(75,1/2@20)
+XDelta(83,-1/2@21)
+XDelta(85,-3/8@19)
+XDelta(86,-5/8@19)
+XDelta(87,-3/4@19)
+XDelta(88,-5/8@15,-3/4@17,-1/2@19;21)
+XDelta(89,-3/8@15,-5/8@16..17,-3/8@20)
+XDelta(90,-1/2@15..17,-1/4@21)
+XDelta(91,-3/8@15..16)
+XDelta(93,-1/2@15)
+XDelta(106,1/4@15)
+XDelta(107,3/8@12,3/4@13)
+XDelta(108,5/8@11)
+XDelta(124,3/8@11,-3/8@21)
+XDelta(128,1/2@13)
+XDelta(134,-3/8@16,-3/4@20)
+XDelta(139,3/8@13)
+XDelta(148,-1/2@11)
+
+    </glyphProgram>
+
+    <glyphProgram name="macron">
+/* VTTTalk glyph 219, char 0xaf */
+/* GUI generated Thu Feb 24 13:17:03 2011 */
+
+/* Y direction */
+YAnchor(26)
+YLink(26,5)
+
+/* X direction */
+XAnchor(17)
+XLink(17,38)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="minus">
+/* VTTTalk glyph 19, char 0x2212 */
+/* GUI generated Tue Feb 22 11:22:46 2011 */
+
+/* Y direction */
+YAnchor(20)
+YLink(20,6)
+
+/* X direction */
+XAnchor(15)
+XLink(15,25)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="mu">
+/* VTTTalk glyph 163, char 0xb5 */
+/* GUI generated Thu Feb 24 12:43:28 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,78)
+YAnchor(40)
+YLink(40,101)
+YLink(108,21)
+
+/* X direction */
+XAnchor(0)
+XLink(0,89)
+XAnchor(25)
+XLink(25,13)
+XLink(13,54)
+XLink(54,29)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="multiply">
+/* VTTTalk glyph 20, char 0xd7 */
+/* GUI generated Tue Feb 22 11:23:08 2011 */
+
+/* Y direction */
+YAnchor(25)
+YLink(25,5)
+YAnchor(50)
+YLink(50,74)
+YAnchor(62)
+YLink(62,13)
+
+/* X direction */
+XAnchor(80)
+XLink(80,38)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="n">
+/* VTTTalk glyph 99, char 0x6e (n) */
+/* GUI generated Sat Feb 26 10:49:17 2011 */
+
+/* Y direction */
+YAnchor(58)
+YLink(58,13)
+YAnchor(94)
+YLink(94,37)
+YLink(94,79)
+
+/* X direction */
+XAnchor(0)
+XLink(0,28)
+XAnchor(49)
+XLink(49,63)
+
+Smooth()
+YDelta(44,5/8@12)
+YDelta(91,-1/2@11)
+XDelta(3,-1/4@20)
+XDelta(4,-3/8@19)
+XDelta(32,1/4@15)
+XDelta(61,3/8@13,1/4@15,3/8@16..17,1/2@19,3/4@20,1/2@21)
+XDelta(62,1/8@19)
+XDelta(65,1/4@19,3/8@20,1/2@21)
+XDelta(66,1/4@13,1/2@15,1/4@17,1/2@19,3/8@20)
+XDelta(68,3/8@21)
+XDelta(82,-3/8@17)
+XDelta(91,1/4@19)
+XDelta(97,-5/8@16,-1/2@17)
+
+    </glyphProgram>
+
+    <glyphProgram name="nine">
+/* VTTTalk glyph 46, char 0x39 (9) */
+/* GUI generated Sun Feb 27 11:46:01 2011 */
+
+/* Y direction */
+YAnchor(20)
+YLink(20,52)
+YAnchor(71)
+YLink(71,150)
+YAnchor(99)
+YLink(99,127)
+
+/* X direction */
+XAnchor(84)
+XLink(84,140)
+XAnchor(117)
+XLink(117,62)
+XLink(62,118)
+
+Smooth()
+YDelta(2,5/8@19)
+YDelta(4,3/8@13,3/4@19)
+YDelta(5,3/4@19)
+YDelta(6,1/2@19,3/8@20)
+YDelta(7,7/8@19,1/2@20)
+YDelta(8,5/8@19)
+YDelta(56,-5/8@12)
+YDelta(64,5/8@19,1@20..21)
+YDelta(65,5/8@19,1/2@20,5/8@21)
+YDelta(66,1/2@19,3/8@20)
+YDelta(67,3/8@20)
+YDelta(79,1/2@16)
+YDelta(80,5/8@16)
+YDelta(89,-1/4@17)
+YDelta(90,-3/8@17)
+YDelta(91,-1/2@17,-3/8@19)
+YDelta(92,-3/8@17)
+YDelta(93,-3/8@17;19)
+YDelta(94,-1/4@17,-3/8@19)
+YDelta(95,-5/8@17,-3/4@19,-3/8@20..21)
+YDelta(120,1/2@20,5/8@21)
+YDelta(121,1/2@19,5/8@20..21)
+YDelta(133,3/8@16)
+YDelta(134,5/8@12)
+YDelta(143,-1/2@15)
+YDelta(144,-3/8@13,-1/2@15)
+YDelta(145,-3/8@17;19,-1/2@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="numbersign">
+/* VTTTalk glyph 24, char 0x23 (#) */
+/* GUI generated Thu Feb 24 13:24:20 2011 */
+
+/* Y direction */
+YAnchor(134)
+YLink(134,159)
+YLink(134,105)
+YLink(105,88)
+YLink(134,155)
+YLink(155,5)
+YAnchor(167)
+YLink(167,46)
+YLink(167,11)
+YLink(11,19)
+YLink(167,82)
+YLink(82,73)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="o">
+/* VTTTalk glyph 100, char 0x6f (o) */
+/* GUI generated Sat Feb 26 10:52:12 2011 */
+
+/* Y direction */
+YAnchor(8)
+YLink(8,76)
+YAnchor(25)
+YLink(25,54)
+
+/* X direction */
+XAnchor(2)
+XLink(2,44)
+XAnchor(16)
+XLink(16,68)
+
+Smooth()
+YDelta(60,3/8@21)
+YDelta(61,3/8@21)
+YDelta(72,-3/8@21)
+YDelta(80,-1/2@20)
+XDelta(5,-3/8@11..12)
+XDelta(6,-1/2@16..17)
+XDelta(11,1/2@19)
+XDelta(12,1/2@19,3/8@20)
+XDelta(20,1/4@15)
+XDelta(33,-1/2@17)
+XDelta(34,-1/2@16)
+XDelta(37,-1/2@11..12;16)
+XDelta(48,1/2@15,1/4@19,1/2@20,3/4@21)
+XDelta(49,5/8@15)
+XDelta(50,1/2@21)
+XDelta(52,1/2@20)
+XDelta(70,-3/8@11,-1/4@12)
+XDelta(71,-3/4@11,-1/2@12)
+XDelta(72,-1/2@15,-5/8@16,-3/8@17)
+XDelta(81,1/2@15)
+XDelta(84,1/2@16;21)
+
+    </glyphProgram>
+
+    <glyphProgram name="oe">
+/* VTTTalk glyph 180, char 0x153 */
+/* GUI generated Thu Feb 24 12:52:13 2011 */
+
+/* Y direction */
+YAnchor(5)
+YLink(5,136)
+YAnchor(43)
+YLink(43,210)
+YAnchor(68)
+YLink(68,191)
+YAnchor(103)
+YLink(103,164)
+YAnchor(118)
+YLink(118,176)
+
+/* X direction */
+XAnchor(53)
+XLink(53,200)
+XAnchor(109)
+XLink(109,157)
+XAnchor(125)
+XLink(125,170)
+XLink(125,181)
+XAnchor(153)
+XLink(153,108)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ogonek">
+/* VTTTalk glyph 225, char 0x2db */
+/* GUI generated Thu Feb 24 13:20:48 2011 */
+
+/* Y direction */
+YAnchor(10)
+YLink(10,41)
+YLink(41,23)
+
+/* X direction */
+XAnchor(15)
+XLink(15,33)
+XLink(33,1)
+XLink(33,27)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="one">
+/* VTTTalk glyph 38, char 0x31 (1) */
+/* GUI generated Sat Feb 26 11:34:15 2011 */
+
+/* Y direction */
+YAnchor(34)
+YLink(34,25)
+YAnchor(49)
+YLink(49,10)
+
+/* X direction */
+XAnchor(59)
+XLink(59,19)
+
+Smooth()
+YDelta(21,3/8@12)
+YDelta(22,1/2@12,5/8@13;15)
+
+    </glyphProgram>
+
+    <glyphProgram name="onehalf">
+/* VTTTalk glyph 12, char 0xbd */
+/* GUI generated Tue Feb 22 11:19:30 2011 */
+
+/* Y direction */
+YAnchor(49)
+YLink(49,34)
+YAnchor(118)
+YLink(118,93)
+
+/* X direction */
+XAnchor(56)
+XLink(56,32)
+XAnchor(130)
+XLink(130,145)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="onequarter">
+/* VTTTalk glyph 13, char 0xbc */
+/* GUI generated Tue Feb 22 11:20:30 2011 */
+
+/* Y direction */
+YAnchor(99)
+YLink(99,34)
+YLink(34,21)
+YAnchor(142)
+YLink(142,118)
+YAnchor(192)
+YLink(192,160)
+
+/* X direction */
+XAnchor(70)
+XLink(70,14)
+XLink(14,1)
+XLink(70,89)
+XLink(89,29)
+XAnchor(151)
+XLink(151,169)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="onesuperior">
+/* VTTTalk glyph 14, char 0xb9 */
+/* GUI generated Tue Feb 22 11:20:45 2011 */
+
+/* Y direction */
+YAnchor(46)
+YLink(46,14)
+
+/* X direction */
+XAnchor(4)
+XLink(4,25)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ordfeminine">
+/* VTTTalk glyph 165, char 0xaa */
+/* GUI generated Thu Feb 24 12:45:27 2011 */
+
+/* Y direction */
+YAnchor(16)
+YLink(16,4)
+YLink(16,79)
+YAnchor(27)
+YLink(27,68)
+YAnchor(51)
+YLink(51,36)
+
+/* X direction */
+XAnchor(21)
+XLink(21,46)
+XLink(21,73)
+XAnchor(61)
+XLink(61,32)
+XLink(32,65)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ordmasculine">
+/* VTTTalk glyph 166, char 0xba */
+/* GUI generated Thu Feb 24 12:45:51 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,51)
+YAnchor(23)
+YLink(23,39)
+
+/* X direction */
+XAnchor(15)
+XLink(15,45)
+XAnchor(30)
+XLink(30,32)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="oslash">
+/* VTTTalk glyph 168, char 0xf8 */
+/* GUI generated Thu Feb 24 12:47:05 2011 */
+
+/* Y direction */
+YAnchor(28)
+YLink(28,81)
+YAnchor(57)
+YLink(57,98)
+
+/* X direction */
+XAnchor(12)
+XLink(12,92)
+XAnchor(50)
+XLink(50,106)
+XAnchor(114)
+XLink(114,76)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="p">
+/* VTTTalk glyph 101, char 0x70 (p) */
+/* GUI generated Sat Feb 26 10:57:45 2011 */
+
+/* Y direction */
+YAnchor(19)
+YLink(19,45)
+YAnchor(84)
+YLink(84,168)
+YAnchor(128)
+YLink(128,60)
+
+/* X direction */
+XAnchor(72)
+XLink(72,147)
+XAnchor(91)
+XLink(91,163)
+XAnchor(139)
+XLink(139,51)
+
+Smooth()
+YDelta(25,5/8@20)
+YDelta(26,3/4@20)
+YDelta(41,-1/2@17)
+YDelta(48,-5/8@20)
+YDelta(49,-1/2@17)
+YDelta(56,3/8@17)
+YDelta(64,1/4@20)
+YDelta(66,3/4@20)
+YDelta(81,3/8@16,3/4@17,5/8@19)
+YDelta(88,1/2@17)
+YDelta(112,-3/4@17)
+YDelta(153,1@20)
+YDelta(154,1@20)
+YDelta(155,1@20)
+YDelta(156,1@20)
+YDelta(157,1@20)
+YDelta(158,1@20)
+YDelta(159,1/2@17,1@20)
+XDelta(4,-3/8@13)
+XDelta(27,1/2@13)
+XDelta(41,-3/8@21)
+XDelta(42,-1/2@21)
+XDelta(48,3/8@19,5/8@21)
+XDelta(49,3/8@11,1/2@12;19,3/8@21)
+XDelta(57,1/2@11,5/8@12)
+XDelta(66,-5/8@21)
+XDelta(68,-3/8@12,-1/2@20)
+XDelta(81,-1/2@16,-3/8@19)
+XDelta(87,1/2@11,5/8@13;15,1/2@16;19)
+XDelta(88,1/2@11,5/8@12,3/8@13)
+XDelta(96,1/2@13,1@17,5/8@20..21)
+XDelta(97,3/8@13,1/2@17;20,5/8@21)
+XDelta(98,1/2@20)
+XDelta(134,-5/8@19)
+XDelta(155,-5/8@21)
+XDelta(156,-1/2@21)
+XDelta(158,-1/2@20,-1@21)
+XDelta(159,-1/4@20,-5/8@21)
+XDelta(167,-1/2@20,-5/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="paragraph">
+/* VTTTalk glyph 153, char 0xb6 */
+/* GUI generated Thu Feb 24 12:33:42 2011 */
+
+/* Y direction */
+YAnchor(45)
+YLink(45,123)
+YAnchor(70)
+YLink(70,30)
+YAnchor(84)
+YLink(84,145)
+YAnchor(104)
+YLink(104,44)
+
+/* X direction */
+XAnchor(40)
+XLink(40,17)
+XLink(17,0)
+XAnchor(50)
+XLink(50,120)
+XLink(50,59)
+XLink(59,78)
+XAnchor(89)
+XLink(89,133)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="parenleft">
+/* VTTTalk glyph 29, char 0x28 (() */
+/* GUI generated Tue Feb 22 11:25:57 2011 */
+
+/* Y direction */
+YAnchor(90)
+YLink(90,57)
+
+/* X direction */
+XAnchor(69)
+XLink(69,37)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="parenright">
+/* VTTTalk glyph 30, char 0x29 ()) */
+/* GUI generated Tue Feb 22 11:26:12 2011 */
+
+/* Y direction */
+YAnchor(56)
+YLink(56,5)
+
+/* X direction */
+XAnchor(70)
+XLink(70,34)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="partialdiff">
+/* VTTTalk glyph 164, char 0x2202 */
+/* GUI generated Thu Feb 24 12:44:32 2011 */
+
+/* Y direction */
+YAnchor(11)
+YLink(11,81)
+YAnchor(36)
+YLink(36,58)
+
+/* X direction */
+XAnchor(2)
+XLink(2,91)
+XAnchor(23)
+XLink(23,67)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="percent">
+/* VTTTalk glyph 26, char 0x25 (%) */
+/* GUI generated Tue Feb 22 11:25:02 2011 */
+
+/* Y direction */
+YAnchor(0)
+YLink(0,26)
+YAnchor(60)
+YLink(60,99)
+YAnchor(70)
+YLink(70,88)
+YAnchor(81)
+YLink(81,49)
+YAnchor(117)
+YLink(117,151)
+YAnchor(136)
+YLink(136,143)
+
+/* X direction */
+XAnchor(53)
+XLink(53,104)
+XAnchor(64)
+XLink(64,95)
+XAnchor(108)
+XLink(108,159)
+XAnchor(124)
+XLink(124,149)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="period">
+/* VTTTalk glyph 35, char 0x2e (.) */
+/* GUI generated Tue Feb 22 11:27:44 2011 */
+
+/* Y direction */
+YAnchor(15)
+YLink(15,6)
+
+/* X direction */
+XAnchor(19)
+XLink(19,11)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="periodcentered">
+/* VTTTalk glyph 196, char 0xb7 */
+/* GUI generated Thu Feb 24 13:12:28 2011 */
+
+/* Y direction */
+YAnchor(18)
+YLink(18,8)
+
+/* X direction */
+XAnchor(13)
+XLink(13,2)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="perthousand">
+/* VTTTalk glyph 199, char 0x2030 */
+/* GUI generated Thu Feb 24 13:14:20 2011 */
+
+/* Y direction */
+YAnchor(12)
+YLink(12,48)
+YAnchor(30)
+YLink(30,39)
+YAnchor(56)
+YLink(56,84)
+YAnchor(116)
+YLink(116,155)
+YAnchor(126)
+YLink(126,144)
+YAnchor(137)
+YLink(137,105)
+YAnchor(172)
+YLink(172,209)
+YAnchor(191)
+YLink(191,200)
+
+/* X direction */
+XAnchor(3)
+XLink(3,54)
+XAnchor(19)
+XLink(19,44)
+XAnchor(110)
+XLink(110,159)
+XAnchor(120)
+XLink(120,151)
+XAnchor(164)
+XLink(164,215)
+XAnchor(180)
+XLink(180,205)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="plus">
+/* VTTTalk glyph 32, char 0x2b (+) */
+/* GUI generated Tue Feb 22 11:27:02 2011 */
+
+/* Y direction */
+YAnchor(99)
+YLink(99,8)
+YLink(99,65)
+YLink(65,83)
+YLink(65,41)
+YLink(41,22)
+
+/* X direction */
+XAnchor(91)
+XLink(91,0)
+XLink(91,71)
+XLink(91,16)
+XLink(16,33)
+XLink(33,51)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="plusminus">
+/* VTTTalk glyph 161, char 0xb1 */
+/* GUI generated Thu Feb 24 12:40:52 2011 */
+
+/* Y direction */
+YAnchor(61)
+YLink(61,42)
+YLink(61,100)
+YLink(100,8)
+YAnchor(84)
+YLink(84,24)
+YAnchor(124)
+YLink(124,115)
+
+/* X direction */
+XAnchor(17)
+XLink(17,36)
+XLink(17,89)
+XAnchor(91)
+XLink(91,73)
+XAnchor(121)
+XLink(121,50)
+XAnchor(132)
+XLink(132,105)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="q">
+/* VTTTalk glyph 102, char 0x71 (q) */
+/* GUI generated Sat Feb 26 11:02:25 2011 */
+
+/* Y direction */
+YAnchor(7)
+YLink(7,166)
+YAnchor(28)
+YLink(28,135)
+YAnchor(49)
+YLink(49,114)
+
+/* X direction */
+XAnchor(0)
+XLink(0,170)
+XAnchor(39)
+XLink(39,124)
+XAnchor(77)
+XLink(77,143)
+XLink(143,18)
+
+Smooth()
+YDelta(3,3/8@12)
+YDelta(11,1/2@13)
+YDelta(19,1@21)
+YDelta(20,1/2@16,5/8@17,7/8@21)
+YDelta(21,1/2@21)
+YDelta(88,-7/8@15)
+YDelta(105,-3/8@13)
+YDelta(111,3/8@15)
+YDelta(119,3/8@15)
+YDelta(120,3/8@15,1/2@21)
+YDelta(129,-1/2@12..13)
+YDelta(164,-3/4@15)
+XDelta(3,-1/2@11)
+XDelta(10,1/2@19)
+XDelta(13,-1/2@11,1/2@19)
+XDelta(14,-5/8@11,3/8@19)
+XDelta(22,-1/2@19)
+XDelta(100,-5/8@19)
+XDelta(101,-3/8@19)
+XDelta(107,3/8@21)
+XDelta(108,1/2@21)
+XDelta(111,3/8@15)
+XDelta(119,-1/2@19)
+XDelta(120,-3/8@20)
+XDelta(130,-3/8@19)
+XDelta(138,7/8@20)
+XDelta(139,3/4@20)
+XDelta(140,5/8@20)
+XDelta(141,3/8@20)
+XDelta(159,-3/8@17)
+XDelta(162,-1/2@19)
+XDelta(163,-3/8@11;19)
+XDelta(164,-7/8@11)
+XDelta(167,3/8@20,1/2@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="question">
+/* VTTTalk glyph 52, char 0x3f (?) */
+/* GUI generated Tue Feb 22 11:34:28 2011 */
+
+/* Y direction */
+YAnchor(37)
+YLink(37,22)
+YAnchor(61)
+YLink(61,8)
+YAnchor(116)
+YLink(116,77)
+YAnchor(139)
+YLink(139,128)
+
+/* X direction */
+XAnchor(0)
+XLink(0,68)
+XAnchor(51)
+XLink(51,15)
+XAnchor(107)
+XLink(107,88)
+XAnchor(134)
+XLink(134,142)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="questiondown">
+/* VTTTalk glyph 169, char 0xbf */
+/* GUI generated Thu Feb 24 12:47:52 2011 */
+
+/* Y direction */
+YAnchor(14)
+YLink(14,2)
+YAnchor(85)
+YLink(85,45)
+YAnchor(104)
+YLink(104,27)
+YAnchor(131)
+YLink(131,114)
+YLink(141,69)
+
+/* X direction */
+XAnchor(9)
+XLink(9,17)
+XAnchor(76)
+XLink(76,58)
+XAnchor(94)
+XLink(94,34)
+XAnchor(138)
+XLink(138,109)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedbl">
+/* VTTTalk glyph 23, char 0x22 (") */
+/* GUI generated Tue Feb 22 11:23:52 2011 */
+
+/* Y direction */
+YAnchor(45)
+YLink(45,12)
+YAnchor(61)
+YLink(61,31)
+
+/* X direction */
+XAnchor(4)
+XLink(4,23)
+XLink(23,38)
+XLink(38,55)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblbase">
+/* VTTTalk glyph 198, char 0x201e */
+/* GUI generated Thu Feb 24 13:13:02 2011 */
+
+/* Y direction */
+YAnchor(50)
+YLink(50,38)
+YLink(50,1)
+YLink(1,15)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblleft">
+/* VTTTalk glyph 183, char 0x201c */
+/* GUI generated Thu Feb 24 12:53:55 2011 */
+
+/* Y direction */
+YAnchor(32)
+YLink(32,1)
+YAnchor(46)
+YLink(46,19)
+
+/* X direction */
+XAnchor(22)
+XLink(22,13)
+XLink(13,48)
+XLink(48,41)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblright">
+/* VTTTalk glyph 184, char 0x201d */
+/* GUI generated Thu Feb 24 12:54:24 2011 */
+
+/* Y direction */
+YAnchor(38)
+YLink(38,16)
+YAnchor(50)
+YLink(50,1)
+
+/* X direction */
+XAnchor(4)
+XLink(4,24)
+XLink(24,27)
+XLink(27,47)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteleft">
+/* VTTTalk glyph 185, char 0x2018 */
+/* GUI generated Thu Feb 24 12:54:45 2011 */
+
+/* Y direction */
+YAnchor(19)
+YLink(19,2)
+
+/* X direction */
+XAnchor(27)
+XLink(27,14)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteright">
+/* VTTTalk glyph 186, char 0x2019 */
+/* GUI generated Thu Feb 24 12:55:06 2011 */
+
+/* Y direction */
+YAnchor(24)
+YLink(24,13)
+
+/* X direction */
+XAnchor(2)
+XLink(2,17)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesinglbase">
+/* VTTTalk glyph 197, char 0x201a */
+/* GUI generated Thu Feb 24 13:12:43 2011 */
+
+/* Y direction */
+YAnchor(25)
+YLink(25,13)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesingle">
+/* VTTTalk glyph 28, char 0x27 (') */
+/* GUI generated Tue Feb 22 11:25:44 2011 */
+
+/* Y direction */
+YAnchor(25)
+YLink(25,8)
+
+/* X direction */
+XAnchor(4)
+XLink(4,18)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="r">
+/* VTTTalk glyph 103, char 0x72 (r) */
+/* GUI generated Sat Feb 26 11:05:35 2011 */
+
+/* Y direction */
+YAnchor(28)
+YLink(28,74)
+YAnchor(65)
+YLink(65,13)
+
+/* X direction */
+XAnchor(22)
+XLink(22,77)
+XAnchor(33)
+XLink(33,85)
+XAnchor(72)
+XLink(72,8)
+
+Smooth()
+YDelta(15,1/4@16)
+YDelta(16,1/4@16)
+YDelta(25,1/2@17)
+YDelta(26,3/8@17)
+YDelta(56,-5/8@20)
+YDelta(57,-5/8@20)
+YDelta(68,-3/8@11..13)
+YDelta(81,7/8@21)
+YDelta(82,1@19,7/8@21)
+YDelta(83,5/8@19)
+YDelta(87,-1/2@21)
+XDelta(6,3/8@21)
+XDelta(7,3/4@20,5/8@21)
+XDelta(15,-1/4@15)
+XDelta(16,-3/8@15)
+XDelta(18,-1/2@15)
+XDelta(19,-1/4@17)
+XDelta(25,-5/8@15..16)
+XDelta(26,-1/2@15..16,-3/8@19,-1/2@20)
+XDelta(44,3/4@19,1/2@21)
+XDelta(81,1@19,1/2@20)
+XDelta(82,1/4@20)
+XDelta(83,-1/4@19,-1/2@20)
+XDelta(87,-3/4@19,-1/2@20..21)
+
+    </glyphProgram>
+
+    <glyphProgram name="registered">
+/* VTTTalk glyph 155, char 0xae */
+/* GUI generated Thu Feb 24 12:36:10 2011 */
+
+/* Y direction */
+YAnchor(14)
+YLink(14,108)
+YAnchor(46)
+YLink(46,85)
+YAnchor(138)
+YLink(138,207)
+YAnchor(151)
+YLink(151,131)
+YAnchor(178)
+YLink(178,195)
+
+/* X direction */
+XAnchor(26)
+XLink(26,99)
+XAnchor(60)
+XLink(60,65)
+XAnchor(118)
+XLink(118,186)
+XLink(118,128)
+XLink(128,133)
+XAnchor(162)
+XLink(162,157)
+XLink(162,199)
+XLink(199,145)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ring">
+/* VTTTalk glyph 222, char 0x2da */
+/* GUI generated Thu Feb 24 13:18:59 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,45)
+YAnchor(23)
+YLink(23,35)
+
+/* X direction */
+XAnchor(15)
+XLink(15,41)
+XAnchor(30)
+XLink(30,31)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="s">
+/* VTTTalk glyph 104, char 0x73 (s) */
+/* GUI generated Sat Feb 26 11:08:26 2011 */
+
+/* Y direction */
+YAnchor(46)
+YLink(46,73)
+YAnchor(106)
+YLink(106,12)
+
+/* X direction */
+XAnchor(40)
+XLink(40,78)
+XAnchor(88)
+XLink(88,23)
+XLink(117,53)
+XLink(118,0)
+
+Smooth()
+YDelta(5,7/8@20)
+YDelta(6,7/8@20..21)
+YDelta(8,5/8@21)
+YDelta(17,5/8@11,3/8@12)
+YDelta(19,1/2@21)
+YDelta(28,-3/4@19,-5/8@20,-1/4@21)
+YDelta(32,-1/2@16..17)
+YDelta(33,-5/8@21)
+YDelta(34,-3/8@21)
+YDelta(35,-3/8@21)
+YDelta(37,-3/8@21)
+YDelta(38,-1/2@15,-3/8@19,-1/2@21)
+YDelta(43,1/2@19)
+YDelta(51,1/2@19..20)
+YDelta(63,-5/8@21)
+YDelta(65,-5/8@21)
+YDelta(70,-3/8@17)
+YDelta(77,-5/8@15,-1/2@17)
+YDelta(80,1@20)
+YDelta(81,3/8@16,1/2@17,7/8@20)
+YDelta(82,3/4@19,5/8@20,1/2@21)
+YDelta(83,5/8@19)
+YDelta(84,5/8@20)
+YDelta(86,1/2@11..12,3/8@13)
+YDelta(91,-1/2@13)
+YDelta(113,-1/2@13)
+
+    </glyphProgram>
+
+    <glyphProgram name="section">
+/* VTTTalk glyph 151, char 0xa7 */
+/* GUI generated Thu Feb 24 12:32:24 2011 */
+
+/* Y direction */
+YAnchor(20)
+YLink(20,50)
+YAnchor(96)
+YLink(96,138)
+YAnchor(150)
+YLink(150,167)
+YAnchor(189)
+YLink(189,61)
+
+/* X direction */
+XAnchor(1)
+XLink(1,162)
+XAnchor(11)
+XLink(11,58)
+XAnchor(32)
+XLink(32,40)
+XAnchor(74)
+XLink(74,175)
+XAnchor(88)
+XLink(88,144)
+XAnchor(103)
+XLink(103,125)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="semicolon">
+/* VTTTalk glyph 48, char 0x3b (;) */
+/* GUI generated Tue Feb 22 11:32:41 2011 */
+
+/* Y direction */
+YAnchor(17)
+YLink(17,7)
+YAnchor(50)
+YLink(50,36)
+
+/* X direction */
+XAnchor(0)
+XLink(0,12)
+XAnchor(24)
+XLink(24,42)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="seven">
+/* VTTTalk glyph 44, char 0x37 (7) */
+/* GUI generated Sun Feb 27 11:27:44 2011 */
+
+/* Y direction */
+YAnchor(113)
+YLink(113,89)
+YLink(126,42)
+
+/* X direction */
+XAnchor(3)
+XLink(3,83)
+XLink(125,102)
+
+Smooth()
+YDelta(7,3/8@21)
+YDelta(8,1/2@21)
+YDelta(13,-3/8@21)
+YDelta(32,1/4@21)
+YDelta(33,-1/4@21)
+YDelta(73,-1/2@21)
+YDelta(74,-3/8@21)
+XDelta(6,-1/4@19)
+XDelta(9,-3/8@20,-3/4@21)
+XDelta(10,-3/8@16)
+XDelta(31,-5/8@20)
+XDelta(32,-5/8@20,-3/4@21)
+XDelta(33,-1/2@19..20)
+XDelta(34,-3/8@19,-1@20)
+XDelta(35,-1/2@20)
+XDelta(36,-1/2@20..21)
+XDelta(37,-1/2@19,-5/8@21)
+XDelta(38,-1/4@19,-3/4@21)
+XDelta(39,-5/8@19)
+XDelta(40,-1/4@19)
+XDelta(56,1/2@20)
+XDelta(58,3/4@21)
+XDelta(59,3/8@17)
+XDelta(60,1/4@17;20)
+XDelta(61,5/8@20)
+XDelta(79,5/8@21)
+XDelta(80,5/8@21)
+XDelta(81,1@21)
+XDelta(82,1@21)
+XDelta(83,1@21)
+XDelta(84,1@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="sfthyphen">
+/* VTTTalk glyph 227, char 0xad */
+/* GUI generated Thu Feb 24 13:21:54 2011 */
+
+/* Y direction */
+YAnchor(20)
+YLink(20,8)
+
+/* X direction */
+XAnchor(15)
+XLink(15,26)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="six">
+/* VTTTalk glyph 43, char 0x36 (6) */
+/* GUI generated Sun Feb 27 11:24:57 2011 */
+
+/* Y direction */
+YAnchor(35)
+YLink(35,107)
+YAnchor(58)
+YLink(58,120)
+YAnchor(84)
+YLink(84,10)
+
+/* X direction */
+XAnchor(47)
+XLink(47,98)
+XAnchor(66)
+XLink(66,24)
+XLink(135,96)
+XLink(96,6)
+
+Smooth()
+YDelta(8,1/2@19)
+YDelta(16,1/8@17)
+YDelta(18,5/8@19)
+YDelta(78,-1/2@12)
+YDelta(102,1/2@17)
+YDelta(116,-5/8@17)
+XDelta(8,1/2@17,3/8@20,1/2@21)
+XDelta(15,-1/2@20)
+XDelta(16,-1/2@16,-3/8@17)
+XDelta(17,-3/8@21)
+XDelta(18,-1/4@17;19)
+XDelta(20,-3/8@15)
+XDelta(30,5/8@21)
+XDelta(40,-1/4@19)
+XDelta(41,-3/8@19..20)
+XDelta(101,3/8@16)
+XDelta(102,1/4@16)
+XDelta(103,1/2@16)
+XDelta(111,-5/8@19,-1/2@20)
+XDelta(112,-1/2@19,-1@21)
+XDelta(113,-1/2@19,-1@21)
+XDelta(114,-5/8@19,-1@21)
+XDelta(115,-1@21)
+XDelta(116,-1@21)
+XDelta(117,-3/4@21)
+XDelta(125,1/2@15..16)
+XDelta(126,3/8@15..16)
+
+    </glyphProgram>
+
+    <glyphProgram name="slash">
+/* VTTTalk glyph 36, char 0x2f (/) */
+/* GUI generated Tue Feb 22 11:27:53 2011 */
+
+/* Y direction */
+YAnchor(49)
+YLink(49,17)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="sterling">
+/* VTTTalk glyph 150, char 0xa3 */
+/* GUI generated Thu Feb 24 12:30:40 2011 */
+
+/* Y direction */
+YAnchor(3)
+YLink(3,171)
+YAnchor(77)
+YLink(77,122)
+YAnchor(134)
+YLink(134,61)
+YLink(61,51)
+YLink(134,144)
+YLink(144,99)
+YAnchor(152)
+YLink(152,163)
+
+/* X direction */
+XAnchor(68)
+XLink(68,129)
+XAnchor(86)
+XLink(86,113)
+XAnchor(156)
+XLink(156,159)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="t">
+/* VTTTalk glyph 105, char 0x74 (t) */
+/* GUI generated Sat Feb 26 11:10:58 2011 */
+
+/* Y direction */
+YAnchor(97)
+YLink(97,33)
+YAnchor(108)
+YLink(108,7)
+
+/* X direction */
+XAnchor(50)
+XLink(50,16)
+
+Smooth()
+YDelta(24,-1/2@21)
+YDelta(61,3/4@21)
+YDelta(62,5/8@21)
+YDelta(63,5/8@21)
+YDelta(64,1/2@21)
+YDelta(65,5/8@21)
+YDelta(67,5/8@21)
+YDelta(68,5/8@21)
+YDelta(69,5/8@21)
+YDelta(70,1/2@21)
+YDelta(71,1/2@21)
+YDelta(72,1/2@21)
+YDelta(84,-3/8@15)
+XDelta(18,-3/8@17,-1/4@21)
+XDelta(21,-3/8@17,-1/2@19,-3/8@21)
+XDelta(22,-1/2@17,-3/4@19)
+XDelta(23,-3/4@19)
+XDelta(39,5/8@11)
+XDelta(40,1/2@11;20)
+XDelta(41,1/2@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="thorn">
+/* VTTTalk glyph 9, char 0xfe */
+/* GUI generated Tue Feb 22 11:19:06 2011 */
+
+/* Y direction */
+
+/* X direction */
+XAnchor(5)
+XLink(5,58)
+XAnchor(76)
+XLink(76,182)
+XAnchor(98)
+XLink(98,166)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="three">
+/* VTTTalk glyph 40, char 0x33 (3) */
+/* GUI generated Sat Feb 26 22:43:30 2011 */
+
+/* Y direction */
+YAnchor(13)
+YLink(13,52)
+YAnchor(70)
+YLink(70,161)
+YAnchor(84)
+YLink(84,151)
+YAnchor(131)
+YLink(131,105)
+
+/* X direction */
+XAnchor(2)
+XLink(2,60)
+XAnchor(33)
+XLink(33,121)
+XAnchor(76)
+XLink(76,157)
+XAnchor(140)
+XLink(140,96)
+
+Smooth()
+YDelta(5,3/8@11)
+YDelta(8,3/8@11)
+YDelta(29,5/8@20)
+YDelta(66,5/8@19,1/2@20)
+YDelta(67,1/2@20)
+YDelta(73,5/8@19)
+YDelta(74,3/8@19,5/8@20)
+YDelta(81,-5/8@19)
+YDelta(87,-7/8@19)
+YDelta(88,-1/2@16,-5/8@20,-1/2@21)
+YDelta(89,-3/4@16)
+YDelta(110,3/4@20)
+YDelta(111,1/2@20)
+XDelta(6,-1/2@19)
+XDelta(8,-3/8@13)
+XDelta(29,3/8@21)
+XDelta(32,5/8@20)
+XDelta(33,3/4@20)
+XDelta(34,3/4@20)
+XDelta(42,-3/8@21)
+XDelta(44,-1/2@21)
+XDelta(45,-1/2@21)
+XDelta(46,-1/2@21)
+XDelta(47,-1/2@21)
+XDelta(49,-5/8@17)
+XDelta(50,-1/2@16,-1@19,-3/8@21)
+XDelta(54,3/8@17)
+XDelta(55,3/8@12,1/2@17)
+XDelta(89,3/8@16)
+XDelta(99,3/8@15)
+XDelta(100,3/8@15)
+XDelta(110,-3/8@21)
+XDelta(133,-1/2@16..17)
+XDelta(144,-5/8@12)
+XDelta(145,-1/2@11)
+XDelta(147,-5/8@12)
+XDelta(165,3/4@16,1@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="threequarters">
+/* VTTTalk glyph 15, char 0xbe */
+/* GUI generated Tue Feb 22 11:21:20 2011 */
+
+/* Y direction */
+YAnchor(96)
+YLink(96,35)
+YAnchor(135)
+YLink(135,116)
+YAnchor(143)
+YLink(143,163)
+YAnchor(215)
+YLink(215,196)
+
+/* X direction */
+XAnchor(68)
+XLink(68,86)
+XAnchor(152)
+XLink(152,210)
+XAnchor(221)
+XLink(221,191)
+XAnchor(229)
+XLink(229,170)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="threesuperior">
+/* VTTTalk glyph 16, char 0xb3 */
+/* GUI generated Tue Feb 22 11:21:38 2011 */
+
+/* Y direction */
+YAnchor(4)
+YLink(4,24)
+YAnchor(75)
+YLink(75,58)
+
+/* X direction */
+XAnchor(81)
+XLink(81,52)
+XAnchor(88)
+XLink(88,31)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tilde">
+/* VTTTalk glyph 218, char 0x2dc */
+/* GUI generated Thu Feb 24 13:16:44 2011 */
+
+/* Y direction */
+YAnchor(12)
+YLink(12,47)
+YAnchor(39)
+YLink(39,18)
+
+/* X direction */
+XAnchor(31)
+XLink(31,22)
+XLink(22,2)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="two">
+/* VTTTalk glyph 39, char 0x32 (2) */
+/* GUI generated Tue Feb 22 11:28:47 2011 */
+
+/* Y direction */
+YAnchor(32)
+YLink(32,138)
+YAnchor(46)
+YLink(46,122)
+YAnchor(99)
+YLink(99,60)
+
+/* X direction */
+XAnchor(38)
+XLink(38,131)
+XAnchor(89)
+XLink(89,67)
+XAnchor(105)
+XLink(105,55)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="twosuperior">
+/* VTTTalk glyph 17, char 0xb2 */
+/* GUI generated Tue Feb 22 11:22:04 2011 */
+
+/* Y direction */
+YAnchor(14)
+YLink(14,76)
+YAnchor(25)
+YLink(25,71)
+YAnchor(53)
+YLink(53,38)
+
+/* X direction */
+XAnchor(62)
+XLink(62,33)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="u">
+/* VTTTalk glyph 106, char 0x75 (u) */
+/* GUI generated Sat Feb 26 11:11:57 2011 */
+
+/* Y direction */
+YAnchor(13)
+YLink(13,58)
+YAnchor(38)
+YLink(38,75)
+
+/* X direction */
+XAnchor(1)
+XLink(1,64)
+XAnchor(22)
+XLink(22,48)
+
+Smooth()
+YDelta(16,3/8@13;19)
+YDelta(17,1/2@19,3/8@20)
+YDelta(59,-1/4@16)
+YDelta(60,-3/4@12)
+XDelta(9,-3/8@17)
+XDelta(52,-3/8@16)
+
+    </glyphProgram>
+
+    <glyphProgram name="underscore">
+/* VTTTalk glyph 84, char 0x5f (_) */
+/* GUI generated Mon Feb 21 10:40:02 2011 */
+
+/* Y direction */
+YAnchor(52)
+YLink(52,14)
+
+/* X direction */
+XAnchor(30)
+XLink(30,74)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="v">
+/* VTTTalk glyph 107, char 0x76 (v) */
+/* GUI generated Sat Feb 26 11:14:40 2011 */
+
+/* Y direction */
+YAnchor(16)
+YLink(16,52)
+YAnchor(37)
+YLink(37,60)
+
+/* X direction */
+XAnchor(3)
+XLink(3,28)
+
+Smooth()
+XDelta(8,-1/4@19)
+XDelta(9,-3/8@17,-1/4@20)
+XDelta(11,-3/8@20)
+XDelta(19,3/8@21)
+XDelta(42,-5/8@19,-3/4@20,-1/2@21)
+XDelta(43,-1/2@17)
+XDelta(46,-3/8@19,-1/4@20)
+XDelta(49,-1/4@13,-3/8@17;19..20)
+XDelta(51,-1/2@15..16,-3/8@19,-5/8@20)
+XDelta(52,1/4@16)
+XDelta(56,3/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="w">
+/* VTTTalk glyph 108, char 0x77 (w) */
+/* GUI generated Sat Feb 26 11:19:09 2011 */
+
+/* Y direction */
+YAnchor(10)
+YLink(10,104)
+YAnchor(22)
+YLink(22,66)
+YAnchor(40)
+YLink(40,128)
+YLink(40,89)
+YLink(89,138)
+
+/* X direction */
+XAnchor(29)
+XLink(29,57)
+XAnchor(84)
+XLink(84,143)
+XAnchor(94)
+XLink(94,152)
+XAnchor(136)
+XLink(136,117)
+
+Smooth()
+YDelta(6,1/4@19)
+YDelta(79,3/8@21)
+YDelta(146,-1/4@19)
+YDelta(147,-1@19,-7/8@21)
+YDelta(148,-1@19,-1/2@21)
+XDelta(5,-5/8@11,-1/2@13)
+XDelta(6,-5/8@11,-1/2@13,-3/8@19..20)
+XDelta(7,-1/4@11,-3/8@13)
+XDelta(25,3/4@16,1/2@17)
+XDelta(61,-1/4@20)
+XDelta(62,-3/8@15)
+XDelta(72,3/8@19)
+XDelta(73,1/2@19)
+XDelta(74,1/2@19)
+XDelta(75,3/8@16;19)
+XDelta(76,1/2@16,3/8@19..20)
+XDelta(77,3/8@16;19..20,1/2@21)
+XDelta(78,3/8@16,1/2@19,3/8@20..21)
+XDelta(79,3/8@16;19..20,1/2@21)
+XDelta(80,1/2@16,3/8@19,7/8@20)
+XDelta(81,3/4@20)
+XDelta(82,3/8@20)
+XDelta(108,1/2@17)
+XDelta(109,1/2@12)
+XDelta(119,3/8@20)
+XDelta(120,1/8@19,1/4@20)
+XDelta(132,-3/8@21)
+XDelta(146,-1/4@19,-1/8@21)
+XDelta(148,3/8@19,5/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="x">
+/* VTTTalk glyph 109, char 0x78 (x) */
+/* GUI generated Sat Feb 26 11:23:36 2011 */
+
+/* Y direction */
+YAnchor(22)
+YLink(22,5)
+YAnchor(46)
+YLink(46,72)
+YAnchor(58)
+YLink(58,13)
+
+/* X direction */
+XAnchor(82)
+XLink(82,34)
+
+Smooth()
+YDelta(0,-1/2@21)
+YDelta(7,5/8@19,1/2@20)
+YDelta(8,3/4@19)
+YDelta(9,1@17,5/8@19,3/8@20,3/4@21)
+YDelta(10,1@17;19,5/8@20..21)
+YDelta(11,7/8@17,1@19)
+YDelta(12,1@17;19;21)
+YDelta(13,1@17;19;21)
+YDelta(15,7/8@17)
+YDelta(16,7/8@17)
+YDelta(17,3/4@17)
+YDelta(18,3/4@17)
+YDelta(19,1/4@17)
+YDelta(20,1/2@17)
+YDelta(30,-1/2@19..20,-5/8@21)
+YDelta(31,-1/2@19,-5/8@21)
+YDelta(32,-1@19,-3/8@21)
+YDelta(33,-1/2@21)
+YDelta(35,5/8@20)
+YDelta(49,-5/8@20)
+YDelta(51,-7/8@20)
+YDelta(52,-3/8@20,-1/2@21)
+YDelta(55,-1/4@20,-3/4@21)
+YDelta(57,-3/4@21)
+YDelta(58,-1@20,-1/2@21)
+YDelta(79,3/4@21)
+YDelta(80,1@20)
+YDelta(81,3/8@21)
+YDelta(84,-3/4@21)
+XDelta(15,-3/8@12)
+XDelta(54,-1/4@15)
+XDelta(59,1/2@16)
+XDelta(60,3/8@15)
+XDelta(66,3/4@21)
+XDelta(67,5/8@21)
+XDelta(68,1/2@21)
+XDelta(69,3/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="y">
+/* VTTTalk glyph 110, char 0x79 (y) */
+/* GUI generated Sat Feb 26 11:28:00 2011 */
+
+/* Y direction */
+YAnchor(31)
+YLink(31,184)
+YAnchor(74)
+YLink(74,107)
+YAnchor(93)
+YLink(93,130)
+
+/* X direction */
+XAnchor(2)
+XLink(2,19)
+XAnchor(36)
+XLink(36,179)
+XAnchor(83)
+XLink(83,101)
+XAnchor(145)
+XLink(145,24)
+XLink(145,57)
+XLink(57,125)
+XLink(57,158)
+
+Smooth()
+YDelta(29,1/2@11)
+YDelta(32,1/2@20)
+YDelta(33,5/8@11)
+YDelta(46,-3/8@19)
+YDelta(49,-1/2@15)
+YDelta(50,-3/8@19)
+YDelta(51,-5/8@20)
+YDelta(52,-5/8@20)
+YDelta(53,-1/2@15,-5/8@20)
+YDelta(55,-3/8@20)
+YDelta(61,3/8@19)
+YDelta(63,3/8@19)
+YDelta(79,5/8@12..13,3/8@15)
+YDelta(112,-1/4@20)
+YDelta(113,-3/8@19)
+YDelta(147,-3/8@20..21)
+YDelta(154,-3/8@21)
+YDelta(164,1/4@20)
+YDelta(174,1/2@20)
+YDelta(182,-1/2@19)
+YDelta(191,-1/2@13)
+XDelta(29,-1/2@21)
+XDelta(54,1/2@17)
+XDelta(67,-3/8@16)
+XDelta(68,-3/8@16,-1/2@17)
+XDelta(116,3/8@21)
+XDelta(120,1/2@15)
+XDelta(171,-3/8@21)
+XDelta(175,-1/4@20,-3/8@21)
+XDelta(182,-3/8@17)
+
+    </glyphProgram>
+
+    <glyphProgram name="yen">
+/* VTTTalk glyph 162, char 0xa5 */
+/* GUI generated Thu Feb 24 12:42:23 2011 */
+
+/* Y direction */
+YAnchor(36)
+YLink(36,49)
+YLink(36,98)
+YLink(98,84)
+YAnchor(148)
+YLink(148,167)
+YAnchor(183)
+YLink(183,14)
+YLink(183,128)
+YLink(128,114)
+YLink(189,65)
+
+/* X direction */
+XAnchor(43)
+XLink(43,1)
+XAnchor(59)
+XLink(59,27)
+XLink(27,178)
+XLink(59,77)
+XLink(77,104)
+XLink(104,130)
+XAnchor(90)
+XLink(90,121)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="z">
+/* VTTTalk glyph 111, char 0x7a (z) */
+/* GUI generated Sat Feb 26 11:30:23 2011 */
+
+/* Y direction */
+YAnchor(19)
+YLink(19,121)
+YAnchor(42)
+YLink(42,93)
+YLink(93,109)
+YLink(109,32)
+YAnchor(77)
+YLink(77,56)
+
+/* X direction */
+
+Smooth()
+YDelta(60,3/8@20)
+YDelta(125,-1/4@16,-3/8@21)
+XDelta(30,5/8@21)
+XDelta(84,-1/4@19)
+XDelta(86,-1/2@17,-5/8@20)
+XDelta(87,-5/8@20)
+XDelta(120,-5/8@21)
+
+    </glyphProgram>
+
+    <glyphProgram name="zero">
+/* VTTTalk glyph 37, char 0x30 (0) */
+/* GUI generated Sat Feb 26 11:33:46 2011 */
+
+/* Y direction */
+YAnchor(12)
+YLink(12,88)
+YAnchor(35)
+YLink(35,62)
+
+/* X direction */
+XAnchor(2)
+XLink(2,47)
+XAnchor(23)
+XLink(23,75)
+
+Smooth()
+XDelta(6,-1/4@17)
+XDelta(7,-1/4@15)
+XDelta(8,-1/2@15)
+XDelta(9,-1/2@15)
+XDelta(18,3/8@19,1/4@20,3/8@21)
+XDelta(26,1/4@15)
+XDelta(27,1/4@15)
+XDelta(41,-3/8@16..17)
+XDelta(42,-1/4@16)
+XDelta(45,-1/4@19)
+XDelta(55,1/2@15)
+XDelta(56,3/8@20,1/2@21)
+XDelta(57,1/2@15,3/8@19,1/2@20,5/8@21)
+XDelta(58,1/4@19,3/4@20,7/8@21)
+XDelta(70,-1/4@13,-3/8@20..21)
+XDelta(71,-1/8@17)
+XDelta(79,-3/8@11,-1/4@16,-1/2@17)
+XDelta(80,-1/2@11,-5/8@12,-1/2@17)
+XDelta(99,3/8@20,5/8@21)
+XDelta(100,1/2@13)
+XDelta(104,-5/8@20)
+XDelta(105,1/2@16;20..21)
+
+    </glyphProgram>
+
+    <extraProgram name="reserved0">
+/* VTTTalk glyph 179, char 0x152 */
+/* GUI generated Sun Feb 27 12:21:47 2011 */
+
+/* Y direction */
+YAnchor(6)
+YLink(6,158)
+YAnchor(39)
+YLink(39,224)
+YAnchor(71)
+YLink(71,206)
+YAnchor(96)
+YLink(96,112)
+YAnchor(128)
+YLink(128,173)
+YAnchor(139)
+YLink(139,179)
+
+/* X direction */
+XAnchor(58)
+XLink(58,217)
+XAnchor(136)
+XLink(136,169)
+XAnchor(149)
+XLink(149,235)
+XLink(235,121)
+XAnchor(168)
+XLink(168,102)
+
+Smooth()
+YDelta(65,-1/2@15)
+YDelta(93,-5/8@13)
+YDelta(108,3/8@16)
+YDelta(116,1/4@16)
+YDelta(192,5/8@15,1@16)
+YDelta(193,1/2@11;13,3/4@15)
+YDelta(210,5/8@13)
+YDelta(220,-5/8@11)
+YDelta(228,-5/8@15,-3/8@16)
+YDelta(229,-1/2@11,-5/8@13,-1/2@15)
+YDelta(231,-1/2@13)
+XDelta(11,3/8@15)
+XDelta(22,-1/2@12)
+XDelta(54,5/8@12)
+XDelta(192,1/8@16)
+XDelta(193,1/2@11)
+XDelta(220,-3/8@15..16)
+XDelta(221,-1/2@15)
+XDelta(228,7/8@16)
+XDelta(229,3/4@11;16)
+XDelta(230,1/2@11,5/8@15,3/4@16)
+XDelta(231,5/8@15,1/2@16)
+
+    </extraProgram>
+
+  </TSI3>
+
+</ttFont>
